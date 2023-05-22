@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaudo_imagem_faq=self.webpackChunklaudo_imagem_faq||[]).push([[3761],{4678:a=>{a.exports=JSON.parse('{"permalink":"/LaudoImagemSuporte/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaudo_imagem_faq=self.webpackChunklaudo_imagem_faq||[]).push([[6436],{4404:a=>{a.exports=JSON.parse('{"permalink":"/LaudoImagemSuporte/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

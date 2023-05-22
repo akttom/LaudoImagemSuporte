@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaudo_imagem_faq=self.webpackChunklaudo_imagem_faq||[]).push([[8840],{8442:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/LaudoImagemSuporte/blog/tags/hello","allTagsPath":"/LaudoImagemSuporte/blog/tags","count":2}')}}]);
