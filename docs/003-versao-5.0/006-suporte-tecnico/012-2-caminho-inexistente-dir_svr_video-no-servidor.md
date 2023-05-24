@@ -30,5 +30,5 @@ funcionando.
 Retornar ao nome anterior do computador.
 
 Não resolvendo, encaminhar via e-mail para o suporte técnico o
-arquivo Laudoimagem.ini que está na pasta `C:\Windows` e aguardar
+arquivo `Laudoimagem.ini` que está na pasta `C:\Windows` e aguardar
 retorno.

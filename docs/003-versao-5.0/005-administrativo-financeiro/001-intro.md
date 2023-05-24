@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introdução
 
-![](http://suporte.laudoimagem.com.br/drex_administrativo_financeiro_custom.png)
+![](./img/fin-logo.svg)
 
 Controle da empresa na ponta do mouse, gerenciando contas a pagar e
 receber, estoque, orçamentos, despesas fixas e parceladas, fluxo de

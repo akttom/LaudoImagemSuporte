@@ -12,19 +12,19 @@ não encontrado`
 
 ## Descrição
 
-Este geralmente problema ocorre quando o programa LISERVER foi
+Este geralmente problema ocorre quando o programa `liserver` foi
 fechado.
 
 ## Solução
 
-Executar e manter executando o programa LISERVER.
+Executar e manter executando o programa `liserver`.
 
 ## Procedimentos
 
-[Para confirmar se o problema é na execução do
-LISERVER]{.underline}:
+#### Para confirmar se o problema é na execução do
+`liserver`:
 
-Pressione as teclas CTRL ALT DEL simultaneamente e entre no
+Pressione as teclas `CTRL` + `ALT` + `DEL` simultaneamente e entre no
 Gerenciador de tarefas do Windows.
 
 Clique na opção Aplicativos e verifique se na lista aparece

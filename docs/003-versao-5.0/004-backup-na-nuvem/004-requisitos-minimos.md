@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Requisitos Mínimos
+# Requisitos mínimos
 
 ### Para a ativação do LaudoNet é necessário atender os seguintes requisitos:
 

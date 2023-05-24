@@ -12,19 +12,17 @@ host is known`
 ## Descrição
 
 Este problema ocorre quando o nome o caminho das pastas no
-provedor de hospedagem do site estão diferentes do caminho   
+provedor de hospedagem do site estão diferentes do caminho 
 indicado na configuração de publicação do sistema Laudo &
 Imagem.
 
 ## Solução
 
-Identifique:
+### Identifique:
 
-* se a conexão com internet está funcionando corretamente;
-
-* se o seu site está entrando normalmente;
-
-* se as configurações de publicação estão corretas.
+- se a conexão com internet está funcionando corretamente;
+- se o seu site está entrando normalmente;
+- se as configurações de publicação estão corretas.
 
 ## Procedimentos
 

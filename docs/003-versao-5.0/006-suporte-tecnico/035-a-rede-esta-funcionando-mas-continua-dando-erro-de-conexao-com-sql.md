@@ -63,7 +63,7 @@ Clicar em Ok e em Ok novamente
 Fechar todas as janelas de programas abertas
 
 <u>Na Estação</u> de trabalho, edite o arquivo
-Laudoimagem.ini que está em `C:\Windows`
+`Laudoimagem.ini` que está em `C:\Windows`
 
 Vá até o final da linha que começa com CONN_SERVER e acrescente
 após Data Source=nome do `servidor\sqlexpress,portaTCPIP` (ex. se

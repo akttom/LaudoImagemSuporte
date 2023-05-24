@@ -15,7 +15,7 @@ problema aparece APPCRASH.
 Este problema ocorre em máquinas recém formatadas ou que tiveram
 Windows atualizado.
 
-Essas atualizações podem ter sido realizadas automáticamente ou
+Essas atualizações podem ter sido realizadas automaticamente ou
 intencionalmente.
 
 ## Solução

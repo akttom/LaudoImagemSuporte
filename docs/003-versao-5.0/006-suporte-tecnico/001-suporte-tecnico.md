@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Suporte Técnico
 
-**SE HOUVER ALGUMA DÚVIDA, CONSULTE NOSSO SUPORTE TÉCNICO APENAS
-POR E-MAIL -
+Se houver alguma dúvida, consulte nosso suporte técnico apenas
+por e-mail -
 [suporte@laudoimagem.com.br](mailto:suporte@laudoimagem.com.br)
-ENVIANDO NO E-MAIL O MAIOR DETALHAMENTO POSSÍVEL DO PROBLEMA.**
+enviando no e-mail o maior detalhamento possível do problema.

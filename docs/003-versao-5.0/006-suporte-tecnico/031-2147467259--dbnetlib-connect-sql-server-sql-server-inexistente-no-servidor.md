@@ -12,20 +12,20 @@ inexistente ou acesso negado`.
 
 ## Descrição
 
-Este geralmente problema ocorre quando o programa LISERVER foi
+Este geralmente problema ocorre quando o programa `liserver` foi
 fechado.
 
 Ou o serviço do MSSQL está parado.
 
 ## Solução
 
-Executar e manter executando o programa LISERVER.
+Executar e manter executando o programa `liserver`.
 
 Iniciar o serviço do MSSQL.
 
 ## Procedimentos
 
-### Para confirmar se o problema é na execução do LISERVER
+### Para confirmar se o problema é na execução do `LISERVER`
 
 Pressione as teclas `CTRL` + `ALT` + `DEL` simultaneamente e entre no
 `Gerenciador de tarefas` do `Windows`.

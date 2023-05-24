@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Área Administrativa
+# Área administrativa
 
 O Backup na Nuvem oferece área Administrativa com os seguintes recursos:
 

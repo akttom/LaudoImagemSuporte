@@ -34,7 +34,7 @@ Se não souber qual a porta TCP IP, pode obter das seguintes formas:\
 informação, caso a porta TCP IP não tenha sido alterada; ou
 
 2. Em uma estação que esteja instalada, edite o arquivo
-Laudoimagem.ini que está na pasta `C:\Windows` e verifique na linha
+`Laudoimagem.ini` que está na pasta `C:\Windows` e verifique na linha
 que começa com o texto CONN_SERVER, o nº da porta conforme o exemplo
 abaixo:
 

@@ -80,4 +80,11 @@ Faça download do arquivo RemoveExame
 Descompacte e salve na pasta `C:\Arquivos de
 Programas\Laudoimagem\Util` do servidor do Laudo & Imagem
 
-Após descompactar, execute o arquivo RemoveExameCOmpleto.vbs
+Após descompactar, execute o arquivo `RemoveExameCOmpleto.vbs`
+
+Digite na tela o número do exame a ser removido
+
+Incluindo sigla, traços, barras, etc. Deve ser o nº/nome completo do exame
+
+Arquivo para download:
+[RemoveExameCompleto.vbs](http://suporte.laudoimagem.com.br/download/RemoveExameCompleto.vbs)

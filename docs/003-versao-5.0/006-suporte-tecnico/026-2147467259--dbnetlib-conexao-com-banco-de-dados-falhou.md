@@ -24,7 +24,7 @@ porta TCPIP do Servidor.
 
 1. Retornar a estabilidade de acesso ao servidor via rede.
 
-2. Configurar no arquivo Laudoimagem.ini a porta TCPIP do
+2. Configurar no arquivo `Laudoimagem.ini` a porta TCPIP do
 servidor do Laudo & Imagem.
 
 ## Procedimentos
@@ -62,9 +62,9 @@ Anote o nº dessa outra porta
 
 No computador que é a Estação de trabalho do Laudo & Imagem:
 
-Faça uma cópia de segurança do arquivo Laudoimagem.ini
+Faça uma cópia de segurança do arquivo `Laudoimagem.ini`
 
-Edite o arquivo Laudoimagem.ini e adicione no final da linha que
+Edite o arquivo `Laudoimagem.ini` e adicione no final da linha que
 começa com o texto CONN_SERVER, o nº da porta conforme o exemplo
 abaixo:
 

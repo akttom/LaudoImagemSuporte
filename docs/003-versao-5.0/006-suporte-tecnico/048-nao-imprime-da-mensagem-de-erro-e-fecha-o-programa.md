@@ -15,7 +15,7 @@ fechado`
 Este problema ocorre em máquinas recém formatadas ou que foram
 atualizadas para Windows SP3 ou com Framework 2.0 ou maior.
 
-Essas atualizações podem ter sido realizadas automáticamente ou
+Essas atualizações podem ter sido realizadas automaticamente ou
 intencionalmente.
 
 ## Solução

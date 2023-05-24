@@ -4,50 +4,39 @@ sidebar_position: 2
 
 # Novos Recursos
 
--   ### Captura de imagem de câmera USB
+- ### Captura de imagem de câmera USB
+  - Sem necessidade de placa de captura
+  - Necessário câmera USB com software proprietário
+  - Veja detalhes: [USB Perguntas Frequentes](http://suporte.laudoimagem.com.br/download/USB%20Perguntas%20Frequentes.pdf)
 
-    a.  Sem necessidade de placa de captura
 
-    b.  Necessário câmera USB com software proprietário
+- ### Captura de imagens de equipamento com sinal HDMI
+  - Sinal digital HDMI)
+  - Necessário placa de captura compatível
+  - Veja detalhes: [HDMI Perguntas Frequentes](http://suporte.laudoimagem.com.br/download/HDMI%20Perguntas%20Frequentes.pdf)
 
-    c.  Veja detalhes: [USB Perguntas Frequentes](http://suporte.laudoimagem.com.br/download/USB%20Perguntas%20Frequentes.pdf)
 
--   ### Captura de imagens de equipamento com sinal HDMI
+- ### Corretor Ortográfico
+  - Requisito: Microsoft Office 2010 ou superior
 
-    a.  Sinal digital HDMI)
 
-    a.  Necessário placa de captura compatível
+- ### Etiqueta com código de barra
+  - Etiqueta de identificação
+  - Etiqueta de lâmina
+  - Etiqueta de frasco
+  - Protocolo com código de barra
+  - Necessário se informar sobre modelo de impressora recomendado e especificações técnicas mínimas
 
-    a.  Veja detalhes: [HDMI Perguntas Frequentes](http://suporte.laudoimagem.com.br/download/HDMI%20Perguntas%20Frequentes.pdf)
 
--   ### Corretor Ortográfico
+- ### Assinatura com Certificação Digital
+  - Gera o PDF com inclusão de assinatura digital certificada do médico responsável
+  - Necessário ter Certificado Digital emitido por alguma Certificadora homologada(ICP-Brasil)
 
-    a.  Requisito: Microsoft Office 2010 ou superior
 
--   ### Etiqueta com código de barra
+- ### Serviços opcionais e assinados à parte:
+  - [LaudoNet](/docs/003-versao-5.0/003-laudo-net/001-intro.md)
+  - [Backup na Nuvem](/docs/003-versao-5.0/004-backup-na-nuvem/001-intro.md)
+  - [Administrativo-Financeiro integrado](/docs/003-versao-5.0/005-administrativo-financeiro/001-intro.md)
 
-    a.  Etiqueta de identificação
-
-    b.  Etiqueta de lâmina
-
-    c.  Etiqueta de frasco
-
-    d.  Protocolo com código de barra
-
-    e.  Necessário se informar sobre modelo de impressora recomendado e especificações técnicas mínimas
-
--   ### Assinatura com Certificação Digital
-
-    a.  Gera o PDF com inclusão de assinatura digital certificada do médico responsável
-
-    b.  Necessário ter Certificado Digital emitido por alguma Certificadora homologada(ICP-Brasil)
-
--   ### Serviços opcionais e assinados à parte:
-
-    a.  [LaudoNet](#5463c5a6-7ff6-4651-80fd-1fdd9585bc0c)
-
-    a.  [Backup na Nuvem](#c79c5cd0-8827-4209-ba6d-4dbccc828123)
-
-    a.  [Administrativo-Financeiro integrado](#5a4d78ea-ec93-4e67-98de-03053ce88ad4)
 
 -   ### [Ajuda / Help on-line](http://suporte.laudoimagem.com.br/laudoimagemhelp50/)

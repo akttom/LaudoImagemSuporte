@@ -44,7 +44,7 @@ mapeado.
 Se o drive do servidor não estiver mapeado, digite `\\nome do
 servidor\Laudoimagem` e verifique se o acesso foi permitido.
 
-Ou    digite `\\IP do servidor\Laudoimagem` e verifique se o
+Ou  digite `\\IP do servidor\Laudoimagem` e verifique se o
 acesso foi permitid.
 
 Se não conseguir, chame o seu técnico da rede para verificar a

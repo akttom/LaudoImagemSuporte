@@ -18,7 +18,7 @@ algum caracter que não seja texto.
 
 ## Solução
 
-Remover os apliques das imagens do    exame com problema / erro.
+Remover os apliques das imagens do  exame com problema / erro.
 
 ## Procedimentos
 
@@ -43,7 +43,7 @@ Download:
 
 Importante:  
 Se ocorrer erro ao executar o programa, envie o arquivo
-Laudoimagem.ini que está na pasta `C:\Windows` do Servidor, para
+`Laudoimagem.ini` que está na pasta `C:\Windows` do Servidor, para
 suporte@laudoimagem.com,br, informando que está executando o
 programa RemoverApliquesDoExame.vbs e aguarde retorno. A string
 de conexão terá que ser alterada.

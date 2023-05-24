@@ -28,9 +28,9 @@ procedimentos de solução são diferentes.
 
 Entre em `C:\Windows`
 
-Faça uma cópia de segurança do arquivo Laudoimagem.ini
+Faça uma cópia de segurança do arquivo `Laudoimagem.ini`
 
-Edite o arquivo Laudoimagem.ini e na linha que começa com
+Edite o arquivo `Laudoimagem.ini` e na linha que começa com
 CONN_SERVER, edite a última parte do texto, alterando Data
 Source=nome do `servidor\sqlexpress` para `Data
 Source=127.0.0.1\sqlexpress` - substitua o nome do servidor para

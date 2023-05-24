@@ -30,7 +30,7 @@ porta TCPIP do Servidor.
 2. Verificar e se a rede estiver acessando pelo nome do
 computado, alterar o nome do servidor para IP.
 
-3. Configurar no arquivo Laudoimagem.ini a porta TCPIP do
+3. Configurar no arquivo `Laudoimagem.ini` a porta TCPIP do
 servidor do Laudo & Imagem.
 
 ## Procedimentos
@@ -59,9 +59,9 @@ Verifique no servidor qual é o IP do servidor.
 
 Entre na pasta `C:\Windows`.
 
-Faça uma cópia do arquivo Laudoimagem.ini
+Faça uma cópia do arquivo `Laudoimagem.ini`
 
-Edite o arquivo Laudoimagem.ini e altere:
+Edite o arquivo `Laudoimagem.ini` e altere:
 - `Servidor=nome` do servidor para `Servidor=IP` do servidor
 - Na linha que começa com `CONN_Server`, edite no final da linha,
 `Data Source=nome do servidor\sqlexpress` para `Data Source=IP do
@@ -97,9 +97,9 @@ Anote o nº dessa outra porta
 [No computador que é a Estação de trabalho do Laudo &
 Imagem]{.underline}:
 
-Faça uma cópia de segurança do arquivo Laudoimagem.ini
+Faça uma cópia de segurança do arquivo `Laudoimagem.ini`
 
-Edite o arquivo Laudoimagem.ini e adicione no final da linha que
+Edite o arquivo `Laudoimagem.ini` e adicione no final da linha que
 começa com o texto CONN_SERVER, o nº da porta conforme o exemplo
 abaixo:
 
