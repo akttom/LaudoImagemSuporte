@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaudo_imagem_faq=self.webpackChunklaudo_imagem_faq||[]).push([[7835],{19673:a=>{a.exports=JSON.parse('{"title":"Ajuda","slug":"/category/ajuda","permalink":"/docs/category/ajuda","navigation":{"previous":{"title":"Downloads","permalink":"/docs/versao-5.0/downloads"},"next":{"title":"Laudo & Imagem","permalink":"/docs/ajuda/intro"}}}')}}]);
