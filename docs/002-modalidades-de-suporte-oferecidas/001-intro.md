@@ -16,10 +16,9 @@ Veja maiores detalhes clicando sobre cada uma das modalidades
 oferecidas.
 
 *(\*) Condição necessária: conexão de internet Banda Larga (Vivo, Net
-Virtua, Speedy, Velox, A Jato, etc).*
+Virtua, Speedy, Velox, etc).*
 
 ### Modalidades de Suporte oferecidas
 - [Suporte Gratuito](/docs/002-modalidades-de-suporte-oferecidas/suporte-gratuito)
 - [Suporte Assinado](/docs/002-modalidades-de-suporte-oferecidas/suporte-pago)
 - [Suporte Avulso](/docs/002-modalidades-de-suporte-oferecidas/suporte-especializado)
-- [teste](/docs/002-modalidades-de-suporte-oferecidas/suporte-especializado)
