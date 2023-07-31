@@ -22,3 +22,4 @@ Virtua, Speedy, Velox, A Jato, etc).*
 - [Suporte Gratuito](/docs/002-modalidades-de-suporte-oferecidas/suporte-gratuito)
 - [Suporte Assinado](/docs/002-modalidades-de-suporte-oferecidas/suporte-pago)
 - [Suporte Avulso](/docs/002-modalidades-de-suporte-oferecidas/suporte-especializado)
+- [teste](/docs/002-modalidades-de-suporte-oferecidas/suporte-especializado)
