@@ -10,10 +10,9 @@ sidebar_position: 1
 
 Além de todos os recursos das versões anteriores, podem ser
 agregados os serviços
-[LaudoNet](,docs/versao-5.0/intro),
-[Backup na
-Nuvem](/docs/versao-5.0/backup-na-nuvem/intro) e
-[Administrativo - Financeiro](/docs/versao-5.0/administrativo-financeiro/intro)
+[LaudoNet](/docs/003-versao-5.0/003-laudo-net/001-intro),
+[Backup na Nuvem](/docs/003-versao-5.0/004-backup-na-nuvem/intro) e
+[Administrativo - Financeiro](/docs/003-versao-5.0/005-administrativo-financeiro/intro)
 
 Nova modalidade de comercialização com assinatura mensal de licenças
 de uso e/ou de novos serviços.
@@ -24,7 +23,7 @@ Entre em contato para solicitar informações:
 [atendimento@laudoimagem.com.br](mailto:atendimento@laudoimagem.com.br)
 
 ## Versão 5.0
-- [Novos Recursos](/docs/versao-5.0/novos-recursos)
-- [LaudoNet](/docs/versao-5.0/laudo-net/intro)
-- [Backup na Nuvem](/docs/versao-5.0/backup-na-nuvem/intro)
-- [Administrativo - Financeiro](/docs/versao-5.0/administrativo-financeiro/intro)
+- [Novos Recursos](/docs/003-versao-5.0/novos-recursos)
+- [LaudoNet](/docs/003-versao-5.0/laudo-net/intro)
+- [Backup na Nuvem](/docs/003-versao-5.0/backup-na-nuvem/intro)
+- [Administrativo - Financeiro](/docs/003-versao-5.0/administrativo-financeiro/intro)

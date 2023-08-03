@@ -19,6 +19,6 @@ oferecidas.
 Virtua, Speedy, Velox, etc).*
 
 ### Modalidades de Suporte oferecidas
-- [Suporte Gratuito](/docs/002-modalidades-de-suporte-oferecidas/suporte-gratuito)
-- [Suporte Assinado](/docs/002-modalidades-de-suporte-oferecidas/suporte-pago)
-- [Suporte Avulso](/docs/002-modalidades-de-suporte-oferecidas/suporte-especializado)
+- [Suporte Gratuito](/docs/002-modalidades-de-suporte-oferecidas/002-suporte-gratuito)
+- [Suporte Assinado](/docs/002-modalidades-de-suporte-oferecidas/003-suporte-assinado)
+- [Suporte Avulso](/docs/002-modalidades-de-suporte-oferecidas/004-suporte-avulso)

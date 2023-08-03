@@ -18,4 +18,4 @@ O Backup na Nuvem é a chave para, no futuro, acessar seus
 arquivos de qualquer lugar!
 
 Veja mais detalhes em [Backup na
-Nuvem](/docs/versao-5.0/backup-na-nuvem/intro).
+Nuvem](/docs/003-versao-5.0/backup-na-nuvem/intro).

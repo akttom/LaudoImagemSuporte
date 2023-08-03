@@ -68,4 +68,4 @@ siga as orientações de tela até a conclusão
 ## Conexão com banco de dados falhou durante a instalação
 
 Consulte: [Conexão com banco de dados
-falhou...](/docs/versao-5.0/suporte-tecnico/conexao-com-banco-de-dados-falhou--verifique-os-dados-e-tente-novamente)
+falhou...](/docs/003-versao-5.0/suporte-tecnico/conexao-com-banco-de-dados-falhou--verifique-os-dados-e-tente-novamente)

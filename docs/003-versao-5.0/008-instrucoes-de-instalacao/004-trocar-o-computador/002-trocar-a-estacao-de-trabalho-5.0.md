@@ -68,4 +68,4 @@ Se a versão do Windows for Windows 7, Windows 10 ou Windows 11:
 ## Conexão com banco de dados falhou durante a instalação
 
 Consulte: [Conexão com banco de dados
-falhou...](/docs/versao-5.0/suporte-tecnico/conexao-com-banco-de-dados-falhou--verifique-os-dados-e-tente-novamente)
+falhou...](/docs/003-versao-5.0/suporte-tecnico/conexao-com-banco-de-dados-falhou--verifique-os-dados-e-tente-novamente)
