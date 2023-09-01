@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# O que é
+## O que é
 
 ### O Administrativo Financeiro é um serviço que irá cuidar da sua empresa com:
 - estoque

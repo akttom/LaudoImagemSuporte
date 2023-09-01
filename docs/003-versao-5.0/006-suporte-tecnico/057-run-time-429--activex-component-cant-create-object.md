@@ -2,14 +2,14 @@
 sidebar_position: 57
 ---
 
-# Run time 429 - ActiveX component can't create object
+## Run time 429 - ActiveX component can't create object
 
-## Problema
+### Problema
 
 Ao entrar na pré-visualização de impressão ou ao imprimir, ocorre o
 erro.
 
-## Descrição
+### Descrição
 
 Este problema ocorre em máquinas recém formatadas ou que foram
 atualizadas para Windows SP3 ou com Framework 2.0 ou maior.
@@ -17,12 +17,12 @@ atualizadas para Windows SP3 ou com Framework 2.0 ou maior.
 Essas atualizações podem ter sido realizadas automaticamente ou
 intencionalmente.
 
-## Solução
+### Solução
 
 Faça download do arquivo crnet11win_en.exe e execute em cada máquina
 em que este problema ocorrer.
 
-## Procedimentos
+### Procedimentos
 
 Download do arquivo de atualização
 

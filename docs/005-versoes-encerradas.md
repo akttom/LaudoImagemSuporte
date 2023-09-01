@@ -37,8 +37,6 @@ impressão de todos os laudos cadastrados no sistema, (em papel
 ou em arquivo PDF) para consultas futuras, antes que o acesso ao
 sistema Laudo & Imagem apresente algum problema técnico.
 
-Certos da compreensão de todos.
-
 Entre em contato para solicitar orçamento de atualização e
 informações:
 [atendimento@laudoimagem.com.br](mailto:atendimento@laudoimagem.com.br)

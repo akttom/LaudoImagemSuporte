@@ -2,24 +2,24 @@
 sidebar_position: 69
 ---
 
-# Run time 70 - Permission denied ao capturar video
+## Run time 70 - Permission denied ao capturar video
 
-## Problema
+### Problema
 
 Ao iniciar captura do vídeo dá mensagem de erro `Run time 70 -
 permission denied`.
 
-## Descrição
+### Descrição
 
 A pasta Vídeo em `C:\Arquivos de Programas\Laudoimagem` teve a
 permissão de acesso modificada.
 
-## Solução
+### Solução
 
 Configurar o compartilhamento e permissão de acesso a pasta Vídeo em
 `C:\Arquivos de Programas\Laudoimagem.`
 
-## Procedimentos
+### Procedimentos
 
 Abra o ícone Meu Computador
 

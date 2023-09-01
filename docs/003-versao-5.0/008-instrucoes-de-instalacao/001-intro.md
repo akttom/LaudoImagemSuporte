@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introdução
+## Introdução
 
 O Laudo & Imagem tem duas instalações diferentes: **servidor** e **estação**
 de trabaho.

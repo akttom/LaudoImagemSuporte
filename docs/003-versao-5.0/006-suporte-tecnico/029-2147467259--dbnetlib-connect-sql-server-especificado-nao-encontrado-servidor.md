@@ -2,27 +2,26 @@
 sidebar_position: 29
 ---
 
-# 2147467259 - DBNETLIB CONNECT SQL SERVER Especificado não encontrado (Servidor)
+## 2147467259 - DBNETLIB CONNECT SQL SERVER Especificado não encontrado (Servidor)
 
-## Problema
+### Problema
 
 No Servidor do Laudo & Imagem, ao entrar no programa dá mensagem
 de erro `-2147467259 - DBNETLIB CONNECT SQL SERVER Especificado
 não encontrado`
 
-## Descrição
+### Descrição
 
 Este geralmente problema ocorre quando o programa `liserver` foi
 fechado.
 
-## Solução
+### Solução
 
 Executar e manter executando o programa `liserver`.
 
-## Procedimentos
+### Procedimentos
 
-#### Para confirmar se o problema é na execução do
-`liserver`:
+#### Para confirmar se o problema é na execução do `liserver`:
 
 Pressione as teclas `CTRL` + `ALT` + `DEL` simultaneamente e entre no
 Gerenciador de tarefas do Windows.

@@ -2,19 +2,19 @@
 sidebar_position: 16
 ---
 
-# Laudo está assinado, mas assinatura não aparece
-## Problema
+## Laudo está assinado, mas assinatura não aparece
+### Problema
 
 Laudo está assinado, mas a assinatura não aparece na tela.
 
-## Descrição
+### Descrição
 
 Se foi confeccionado o arquivo da assinatura eletrônica e ao assinar o laudo, a imagem da assinatura não aparece:
 
 -  e mensagem de arquivo não localizado foi exibida: o arquivo da assinatura pode ter sido apagado;
 -  pode ser que a margem da posição da assinatura tenha sido alterado.
 
-## Solução
+### Solução
 
 Verificar se o arquivo da assinatura foi apagado
 

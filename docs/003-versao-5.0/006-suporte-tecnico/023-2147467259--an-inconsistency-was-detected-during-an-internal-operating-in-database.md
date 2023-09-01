@@ -2,24 +2,24 @@
 sidebar_position: 23
 ---
 
-# 2147467259 - An inconsistency was detected during an internal operating in database**
+## 2147467259 - An inconsistency was detected during an internal operating in database**
 
-## Problema
+### Problema
 
 Ao entrar no programa dá mensagem de erro `-2147467259 - An
 inconsistency was detected during an internal operating in
 database`
 
-## Descrição
+### Descrição
 
 Este geralmente problema ocorre quando o banco de dados
 corrompeu por algum motivo.
 
-## Solução
+### Solução
 
 Tentar reparar o banco de dados.
 
-## Procedimentos
+### Procedimentos
 
 Esse procedimento deve ser realizado pelo Suporte técnico do
 Laudo & Imagem.

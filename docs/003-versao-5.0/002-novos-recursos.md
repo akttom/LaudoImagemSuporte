@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Novos Recursos
+## Novos Recursos
 
 - ### Captura de imagem de câmera USB
   - Sem necessidade de placa de captura

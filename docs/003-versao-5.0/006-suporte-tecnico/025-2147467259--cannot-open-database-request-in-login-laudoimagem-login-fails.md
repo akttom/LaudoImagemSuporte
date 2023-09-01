@@ -2,14 +2,14 @@
 sidebar_position: 25
 ---
 
-# 2147467259 - Cannot open database request in login Laudoimagem. Login fails
+## 2147467259 - Cannot open database request in login Laudoimagem. Login fails
 
-## Problema
+### Problema
 
 Ao entrar no programa dá mensagem de erro `-2147467259 - Cannot
 open database request in login Laudoimagem. Login fails`
 
-## Descrição
+### Descrição
 
 Este problema ocorre:
 
@@ -19,7 +19,7 @@ Este problema ocorre:
 
 3. ou quando o arquivo do banco de dados corrompeu.
 
-## Solução
+### Solução
 
 1. quando o MSSQL Server está parado: Iniciar o serviço do SQL
 

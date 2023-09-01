@@ -2,20 +2,20 @@
 sidebar_position: 14
 ---
 
-# Imagem distorcida
-## Problema
+## Imagem distorcida
+### Problema
 
 Imagem aparece distorcida, com sombra, sobreposta.
 
-## Descrição
+### Descrição
 
 As configurações da captura podem ter sido modificadas.
 
-## Solução
+### Solução
 
 Configurar a captura de imagem e/ou vídeo.
 
-## Procedimentos
+### Procedimentos
 
 Verifique :
 

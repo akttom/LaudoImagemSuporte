@@ -2,11 +2,11 @@
 sidebar_position: 4
 ---
 
-# Backup de imagens
+## Backup de imagens
 
-## Periodicidade sugerida: semanal
+### Periodicidade sugerida: semanal
 
-## Para fazer o backup de imagens
+### Para fazer o backup de imagens
 
 1. Entre no Laudo & Imagem na tela `Cadastro` e clique no botão
 ![](./img/004-backup-de-imagens-botao.png) - Painel de Procedimentos

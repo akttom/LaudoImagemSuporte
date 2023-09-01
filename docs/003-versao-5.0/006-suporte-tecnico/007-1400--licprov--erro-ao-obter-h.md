@@ -2,14 +2,14 @@
 sidebar_position: 7
 ---
 
-# 1400 - LicProv - Erro ao obter H
+## 1400 - LicProv - Erro ao obter H
 
-## Problema
+### Problema
 
 Ao entrar no programa dá mensagem de erro `1400 - LicProv -
 Erro ao Obter H`
 
-## Descrição
+### Descrição
 
 Este problema ocorre quando:
 
@@ -19,13 +19,13 @@ dados automaticamente foi fechado.; ou
 2. os arquivos MSXML3.dll e Scrrun.dll foram removidos e/ou
 alterados.
 
-## Solução
+### Solução
 
 1. Retornar a execução do arquivo `liserver` no servidor.
 
 2. Registrar os arquivos  removidos e/ou alterados.
 
-## Procedimentos
+### Procedimentos
 
 1. Para confirmar o problema, no Servidor, clique em CTRL ALT
    DEL e abra a opção Gerenciador de Tarefas.

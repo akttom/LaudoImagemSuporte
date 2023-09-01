@@ -2,24 +2,24 @@
 sidebar_position: 46
 ---
 
-# LIServer minimizado e não oculto
+## LIServer minimizado e não oculto
 
-## Problema
+### Problema
 
 LIServer está minimizado na tela e não oculto.
 
-## Descrição
+### Descrição
 
 Este problema ocorre quando para acessar o programa foi necessário
 executar manualmente o `LIServer` e ele está minimizado na tela e não
 oculto.
 
-## Solução
+### Solução
 
 Retornar a execução do arquivo e configurar para executar oculto e
 não minimizado na tela.
 
-## Procedimentos
+### Procedimentos
 
 Entre em `Iniciar` / `Programas` / `Inicializar`
 

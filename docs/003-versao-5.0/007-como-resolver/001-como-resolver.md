@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Como resolver
+## Como resolver
 
 Para consultar a documentação online, localize o problema ou dúvida e clique no link correspondente.
 

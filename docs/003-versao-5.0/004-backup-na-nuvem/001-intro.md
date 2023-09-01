@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introdução
+## Introdução
 
 ![](./img/nuv-logo.svg)
 

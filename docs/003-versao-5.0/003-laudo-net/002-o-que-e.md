@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# O que é
+## O que é
 
 LaudoNet é uma solução simples e automatizada para a publicação dos laudos gerados pelo Laudo & Imagem e visualização dos mesmos pelos seus clientes (Pacientes, Requisitantes e Procedências).
 
-## Publicação automática no site quando o laudo é assinado no Laudo & Imagem.
+### Publicação automática no site quando o laudo é assinado no Laudo & Imagem.
 
 ### Inclui:
 

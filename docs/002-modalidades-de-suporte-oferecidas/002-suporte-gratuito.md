@@ -2,18 +2,14 @@
 sidebar_position: 2
 ---
 
-# Suporte Gratuito
+## Suporte Gratuito
+
+Essa modalidade, não oferece agilidade na solução de problemas e/ou esclarecimento de
+dúvidas.
 
 Recomendado que o cliente tenha um técnico local com conhecimentos
 necessários para entender e realizar os procedimentos descritos na
 documentação.
-
-Não oferece agilidade na solução de problemas e/ou esclarecimento de
-dúvidas.
-
-**Não nos responsabilizamos pelas ações realizadas que resultem em
-perdas de dados, sem o perfeito entendimento das instruções e/ou por
-pessoas sem o devido conhecimento técnico necessário.**
 
 No suporte gratuito, o atendimento é <u> exclusivamente
 ON-LINE </u> e tem as seguintes características:
@@ -27,7 +23,7 @@ ON-LINE </u> e tem as seguintes características:
 -   O Cliente aguarda a atualização da documentação on-line ou alguma
     orientação específica por e-mail.
 
-### Para agilizar a resposta, o e-mail a ser enviado para o suporte deve conter os seguintes itens:
+#### Para agilizar a resposta, o e-mail a ser enviado para o suporte deve conter os seguintes itens:
 
 -   Nome do médico e/ou clínica/hospital/laboratório
 -   Código do cliente (este código encontra-se na tela de entrada do
@@ -47,7 +43,7 @@ ON-LINE </u> e tem as seguintes características:
     devido a complexidade e envolvimento do registro da licença e é uma
     ação com obrigatoriedade de contratação de suporte avulso
 
-### Importante
+#### Importante
 
 -   Leia com atenção as respostas e instruções do suporte.
 -   Na maioria dos casos o problema persiste porque o usuário não
@@ -58,3 +54,7 @@ ON-LINE </u> e tem as seguintes características:
 -   Clientes que insistirem em receber atendimento por telefone, estão
     assumindo que concordam em pagar o suporte avulso e a cobrança será
     emitida.
+
+    **Não nos responsabilizamos pelas ações realizadas que resultem em
+perdas de dados, sem o perfeito entendimento das instruções e/ou por
+pessoas sem o devido conhecimento técnico necessário.**

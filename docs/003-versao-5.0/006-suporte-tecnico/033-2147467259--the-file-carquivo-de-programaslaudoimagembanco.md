@@ -2,9 +2,9 @@
 sidebar_position: 33
 ---
 
-# 2147467259 - The file `C:\Arquivo de Programas\Laudoimagem\Banco`
+## 2147467259 - The file `C:\Arquivo de Programas\Laudoimagem\Banco`
 
-## Problema
+### Problema
 
 No Servidor do Laudo & Imagem, ao entrar no programa dá mensagem
 Ao conectar com o banco de dados ocorreu o seguinte erro:
@@ -12,17 +12,17 @@ Ao conectar com o banco de dados ocorreu o seguinte erro:
 does not reside in a read only database or file group. The file
 must be decompressed.
 
-## Descrição
+### Descrição
 
 Este geralmente problema ocorre quando a pasta onde estão os
 arquivos do banco de dados do Laudo & Imagem foram compactadas
 pelo sistema operacional Windows, para otimizar espaço em disco.
 
-## Solução
+### Solução
 
 Remover a configuração de compactar os arquivos.
 
-## Procedimentos
+### Procedimentos
 
 Acesse o caminho `C:\Arquivos de programas\Laudoimagem\Banco`
 de dados.

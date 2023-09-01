@@ -2,9 +2,9 @@
 sidebar_position: 4
 ---
 
-# Requisitos Mínimos
+## Requisitos Mínimos
 
-### Para a ativação do LaudoNet é necessário atender os seguintes requisitos:
+#### Para a ativação do LaudoNet é necessário atender os seguintes requisitos:
 
 - Laudo & Imagem versão 5.0 ou maior
 - Assinatura do contrato -- mínimo 12 meses (pagamento por mensalidade

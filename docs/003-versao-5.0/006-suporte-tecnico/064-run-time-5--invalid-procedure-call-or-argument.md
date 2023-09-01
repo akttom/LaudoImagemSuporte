@@ -2,24 +2,24 @@
 sidebar_position: 64
 ---
 
-# Run time 5 - Invalid procedure call or argument
+## Run time 5 - Invalid procedure call or argument
 
-## Problema
+### Problema
 
 Ao entrar no Laudo & Imagem, dá mensagem de erro.
 
-## Descrição
+### Descrição
 
 Este problema ocorre em algumas máquinas que estão com a data e/ou
 configurações regionais desconfiguradas.
 
-## Solução
+### Solução
 
 Para resolver o problema, é necessário acertar a data do computador
 para o dia correto e/ou alterar configurações regionais para o
 padrão Brasil.
 
-## Procedimentos
+### Procedimentos
 
 Clique com o botão direito do mouse no ícone da hora no canto
 inferior direito do monitor.

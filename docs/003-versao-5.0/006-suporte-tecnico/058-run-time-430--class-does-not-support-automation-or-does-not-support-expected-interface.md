@@ -2,19 +2,19 @@
 sidebar_position: 58
 ---
 
-# Run time 430 - Class does not support Automation or does not support expected interface**
+## Run time 430 - Class does not support Automation or does not support expected interface**
 
-## Problema
+### Problema
 
 Após digitar a senha ou ao capturar aparece a mensagem `Run time
 430 - Class does not support Automation or does not support expected
 interface`.
 
-## Solução
+### Solução
 
 Executar AKPlavis.exe
 
-## Procedimento
+### Procedimento
 
 Se a versão do Windows for Windos 7, instalar o aplicativo
 [AKPLAVIS_1_0_8.exe](http://suporte.laudoimagem.com.br/download/versao50/AKPLAVIS_1_0_8.exe)

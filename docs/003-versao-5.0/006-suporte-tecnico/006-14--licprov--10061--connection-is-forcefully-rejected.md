@@ -2,23 +2,23 @@
 sidebar_position: 6
 ---
 
-# 14 - LicProv - 10061 - connection is forcefully rejected
+## 14 - LicProv - 10061 - connection is forcefully rejected
 
-## Problema
+### Problema
 
 Ao entrar no programa dá mensagem de erro `Erro 14 - LicProv -
 10061 - connection is forcefully rejected`
 
-## Descrição
+### Descrição
 
 Este problema ocorre quando o componente `liserver` que inicia a
 conexão com o banco de dados automaticamente foi fechado.
 
-## Solução
+### Solução
 
 Retornar a execução do arquivo.
 
-## Procedimentos
+### Procedimentos
 
 #### Somente no Servidor do Laudo & Imagem
 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Laudo&Imagem Suporte Web
+## Laudo & Imagem Suporte Web
 
 A documentação a seguir, foi elaborada para os clientes que fazem a
 opção de obter suporte de forma gratuita.

@@ -2,20 +2,20 @@
 sidebar_position: 6
 ---
 
-# Captura em preto e branco
-## Problema
+## Captura em preto e branco
+### Problema
 
 Imagem aparece ou é capturada em preto e branco.
 
-## Descrição
+### Descrição
 
 As configurações da captura podem ter sido modificadas.
 
-## Solução
+### Solução
 
 Configurar a captura de imagem e/ou vídeo.
 
-## Procedimentos
+### Procedimentos
 
 ### Se a imagem do vídeo e/ou fotografia está visualizada e/ou capturada em `preto e branco`:
 

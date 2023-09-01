@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Como criar um cadastro "preferido"
+## Como criar um cadastro "preferido"
 
 Um cadastro "preferido" contém somente os campos desejados e na ordem desejada.
 

@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Backup Banco de dados automatizado
+## Backup Banco de dados automatizado
 
-## Periodicidade sugerida: diariamente
+### Periodicidade sugerida: diariamente
 
 A Rotina de backup do Banco de dados automatizado, permitirá que o
 backup do banco de dados seja realizado sem a necessidade do usuário
@@ -13,7 +13,7 @@ abrir o programa de backup, digitr senha e aguardar a finalização.
 Versão 4.2.0 ou maior - Disponível somente para banco de dados
 SQLServer Express
 
-## Requisitos
+### Requisitos
 
 -   Framework 2.0
 -   Permissão de escrita na pasta que irá salvar os backups
@@ -27,7 +27,7 @@ SQLServer Express
     administrador
 -   Servidor tem que permanecer ligado no horário agendado para backup
 
-## Descrição
+### Descrição
 
 #### Define o drive e a pasta onde será armazenado o Arquivo de log na linha add key="pathLog" value="D:\Backup\"
 
@@ -68,7 +68,7 @@ SQLServer Express
 -   onde value="900" aumente 900 para números maiores até que consiga
     fazer o backup
 
-## Automatizar o backup do Banco de dados
+### Automatizar o backup do Banco de dados
 
 Para automatizar, precisa acrescentar o executável como Tarefa do
 Windows
@@ -77,7 +77,7 @@ Procedimento precisa ser configurado e realizado com usuário
 administrador do Windows ou outro usuário com permissão de
 administrador
 
-## Instruções para automatizar o backup do banco de dados
+### Instruções para automatizar o backup do banco de dados
 
 -   Faça download dos arquivos de Backup e configuração do Backup
 -   Salve em uma pasta do `C:\` do computador que é o Servidor do Laudo &

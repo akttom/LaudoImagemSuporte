@@ -2,14 +2,14 @@
 sidebar_position: 43
 ---
 
-# IP não registrado
+## IP não registrado
 
-## Problema
+### Problema
 
 Ao tentar entrar no Laudo & Imagem, aparece a mensagem IP não
 registrado.
 
-## Descrição
+### Descrição
 
 Este problema ocorre:
 
@@ -23,7 +23,7 @@ anterior.
 
 4. não foi atribuída licença para o computador.
 
-## Solução
+### Solução
 
 1. Para resolver o problema, é necessário , alterar no registro da
 licença para o nome correto do computador.
@@ -35,7 +35,7 @@ licença para o IP correto do computador.
 
 4. Atribuir a licença ao computador.
 
-## Procedimentos
+### Procedimentos
 
 <u>Itens 1, 2 e 3</u>
 

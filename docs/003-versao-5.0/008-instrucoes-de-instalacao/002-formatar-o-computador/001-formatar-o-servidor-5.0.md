@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Formatar o Servidor 5.0
+## Formatar o Servidor 5.0
 
 Devido aos problemas enfrentados com o envio de instruções sobre a
 re-instalação do sistema, no computador sendo o **servidor** do Laudo &

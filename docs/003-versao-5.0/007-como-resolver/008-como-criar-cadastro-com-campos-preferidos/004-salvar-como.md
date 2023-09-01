@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Salvar como (preferências)
+## Salvar como (preferências)
 
 O usuário pode criar um "preferidos" a partir de qualquer outro preferido, acrescentando ou removendo campos do cadastro do exame.
 

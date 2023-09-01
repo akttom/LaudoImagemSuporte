@@ -2,28 +2,28 @@
 sidebar_position: 31
 ---
 
-# 2147467259 - DBNETLIB CONNECT SQL SERVER SQL Server inexistente no Servidor
+## 2147467259 - DBNETLIB CONNECT SQL SERVER SQL Server inexistente no Servidor
 
-## Problema
+### Problema
 
 No Servidor do Laudo & Imagem, ao entrar no programa dá mensagem
 de erro `-2147467259 - DBNETLIB CONNECT SQL SERVER SQL Server
 inexistente ou acesso negado`.
 
-## Descrição
+### Descrição
 
 Este geralmente problema ocorre quando o programa `liserver` foi
 fechado.
 
 Ou o serviço do MSSQL está parado.
 
-## Solução
+### Solução
 
 Executar e manter executando o programa `liserver`.
 
 Iniciar o serviço do MSSQL.
 
-## Procedimentos
+### Procedimentos
 
 ### Para confirmar se o problema é na execução do `LISERVER`
 

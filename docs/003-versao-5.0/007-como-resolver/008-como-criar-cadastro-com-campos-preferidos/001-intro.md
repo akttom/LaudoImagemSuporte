@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introdução
+## Introdução
 
 Um cadastro "preferido" contém somente os campos desejados e na ordem desejada.
 

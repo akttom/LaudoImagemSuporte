@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Backup na Nuvem
+## Backup na Nuvem
 
 ![](./img/006-backup-na-nuvem-logo.png)
 

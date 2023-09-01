@@ -2,12 +2,12 @@
 sidebar_position: 32
 ---
 
-# Tela preta
-## Problema
+## Tela preta
+### Problema
 
 Imagem aparece preta.
 
-## Descrição
+### Descrição
 
 Tela preta indica falta de sinal de vídeo por um ou mais motivos listados abaixo:
 
@@ -23,13 +23,13 @@ Tela preta indica falta de sinal de vídeo por um ou mais motivos listados abaix
 
 - equipamento de exame não está ligado
 
-## Solução
+### Solução
 
 Configurar a captura de imagem e/ou vídeo corretamente.
 
 Verificar o local das conexões e funcionamento do cabo de vídeo.
 
-## Procedimentos
+### Procedimentos
 
 Verifique:
 

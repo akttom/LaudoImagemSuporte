@@ -2,19 +2,19 @@
 sidebar_position: 60
 ---
 
-# Run time 445 - Erro ao mandar imprimir
+## Run time 445 - Erro ao mandar imprimir
 
-## Problema
+### Problema
 
 Dá o erro ao visualizar a impressão em tela ou enviar para
 impressão.
 
-## Descrição
+### Descrição
 
 Tem impressora instalada no computador ou na rede e dá o erro ao
 mandar imprimir.
 
-## Solução
+### Solução
 
 1. Verificar se a instalação dos drivers da impressora estão
 instalados / funcionando corretamente.
@@ -24,7 +24,7 @@ instalados / funcionando corretamente.
 3. Verificar se o usuário do Laudo & Imagem está com a impressora
 correta configurada.
 
-## Procedimentos
+### Procedimentos
 
 Verificar se a instalação dos drivers da impressora estão instalados
 e funcionando corretamente

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Botões `>` e `<`
+## Botões `>` e `<`
 
 Estes botões servem para transferir campos da lista da esquerda para a lista da direita e vice-versa.
 

@@ -2,9 +2,9 @@
 sidebar_position: 36
 ---
 
-# Alterar nome do computador no registro da licença
+## Alterar nome do computador no registro da licença
 
-## Descrição
+### Descrição
 
 Caso tenha formatado uma estação de trabalho e seja necessário
 alterar o nome do computador no registro da licença, é
@@ -13,7 +13,7 @@ necessário acessar o programa de Configurações do sistema Laudo
 no servidor e por usuários que tenham o perfil de Administrador
 do sistema.
 
-### Instruções
+#### Instruções
 
 Acesse o programa de Configurações no Servidor do sistema Laudo
 & Imagem

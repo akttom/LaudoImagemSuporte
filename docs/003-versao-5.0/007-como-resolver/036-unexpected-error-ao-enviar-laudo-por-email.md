@@ -2,17 +2,17 @@
 sidebar_position: 36
 ---
 
-# Unexpected error ao enviar laudo por e-mail
-## Problema
+## Unexpected error ao enviar laudo por e-mail
+### Problema
 
 Ao enviar laudos por e-mail dá mensagem de erro e não envia.
 
-## Descrição
+### Descrição
 
 Este problema ocorre quando existe alguma instabilidade na conexão de internet durante o envio, ou se as configurações do e-mail
 do remetente foram alteradas ou ainda se o e-mail do destinatário estiver em branco.
 
-## Solução
+### Solução
 
 Identifique:
 
@@ -20,7 +20,7 @@ Identifique:
 - se as configurações de internet estão corretas;
 - se o campo de e-mail do requisitante ou procedência estão preenchidos;
 
-## Procedimentos
+### Procedimentos
 
 - Verificar se a conexão com internet está funcionando corretamente
 - Entre em qualquer site

@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# O que pode ser personalizado no site do cliente
+## O que pode ser personalizado no site do cliente
 
 O site do LaudoNet pode ser personalizado com o logotipo, imagens, textos e cores que o cliente deseja.
 

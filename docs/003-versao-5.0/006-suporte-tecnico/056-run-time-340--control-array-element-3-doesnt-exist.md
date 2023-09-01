@@ -2,13 +2,13 @@
 sidebar_position: 56
 ---
 
-# Run time 340 - Control array element 3 doesnt exist
+## Run time 340 - Control array element 3 doesnt exist
 
-## Problema
+### Problema
 
 Ao digitar a senha no Laudo & Imagem, dá mensagem de erro.
 
-## Descrição
+### Descrição
 
 O Laudo & Imagem sempre grava no registro do Windows o número do
 último exame. Assim ao entrar no programa na próxima vez o último
@@ -21,12 +21,12 @@ Quando o usuário tenta executar o Laudo & Imagem novamente, o
 programa acessa o último exame que está com problemas e dá o erro,
 não conseguindo acessar o sistema.
 
-## Solução
+### Solução
 
 Para resolver o problema, é necessário remover o último exame do
 registro do Windows e/ou remover o exame com problema.
 
-## Procedimentos
+### Procedimentos
 
 Para remover o registro do último exame, siga as instruções abaixo:
 

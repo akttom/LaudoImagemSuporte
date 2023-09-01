@@ -2,25 +2,25 @@
 sidebar_position: 27
 ---
 
-# 2147467259(80004005)- DBNETLIB ConnectionWrite(Send()) Erro Geral de Rede
+## 2147467259(80004005)- DBNETLIB ConnectionWrite(Send()) Erro Geral de Rede
 
-## Problema
+### Problema
 
 Ao entrar no programa dá mensagem de erro
 `-2147467259(80004005)- DBNETLIB ConnectionWrite(Send()) Erro
 Geral de Rede`
 
-## Descrição
+### Descrição
 
 Este problema ocorre quando existe alguma instabilidade na
 conexão via rede entre o computador que é a Estação de trabalho
 e o Servidor do Laudo & Imagem.
 
-## Solução
+### Solução
 
 Retornar a estabilidade de acesso ao servidor via rede.
 
-## Procedimentos
+### Procedimentos
 
 Para confirmar se o problema é na rede entre no ícone Meu
 computador na área de trabalho.

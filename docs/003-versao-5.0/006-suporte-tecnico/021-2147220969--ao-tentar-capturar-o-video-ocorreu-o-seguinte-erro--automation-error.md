@@ -2,22 +2,22 @@
 sidebar_position: 21
 ---
 
-# 2147220969 - Ao tentar capturar o video ocorreu o seguinte erro - Automation error
+## 2147220969 - Ao tentar capturar o video ocorreu o seguinte erro - Automation error
 
-## Problema
+### Problema
 
 Ao iniciar captura do vídeo dá mensagem de erro Automation
 error.
 
-## Descrição
+### Descrição
 
 A configuração da captura do vídeo foi modificada.
 
-## Solução
+### Solução
 
 Configurar a captura do vídeo.
 
-## Procedimentos
+### Procedimentos
 
 Entre em `Iniciar` / `Programas` / `Laudo & Imagem` / `Configurações`.
 

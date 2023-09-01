@@ -2,15 +2,15 @@
 sidebar_position: 37
 ---
 
-# APPCRASH - Laudoimagem.exe parou de funcionar
+## APPCRASH - Laudoimagem.exe parou de funcionar
 
-## Problema
+### Problema
 
 Ao executar qualquer ação no sistema Laudo & Imagem aparece a
 mensagem:`Laudoimagem.exe parou de funcionar` e no detalhe do
 problema aparece APPCRASH.
 
-## Descrição
+### Descrição
 
 Este problema ocorre em máquinas recém formatadas ou que tiveram
 Windows atualizado.
@@ -18,12 +18,12 @@ Windows atualizado.
 Essas atualizações podem ter sido realizadas automaticamente ou
 intencionalmente.
 
-## Solução
+### Solução
 
 Colocar o executável do programa no DEP (Prevenção de Execução de
 Dados)
 
-## Procedimentos
+### Procedimentos
 
 -   Clique com o botão direito em `Computador` e depois em
 `Propriedades`.

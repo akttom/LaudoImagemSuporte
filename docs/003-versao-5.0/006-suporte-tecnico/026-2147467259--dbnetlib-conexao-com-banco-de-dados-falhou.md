@@ -2,14 +2,14 @@
 sidebar_position: 26
 ---
 
-# 2147467259 - DBNETLIB conexão com banco de dados falhou
+## 2147467259 - DBNETLIB conexão com banco de dados falhou
 
-## Problema
+### Problema
 
 Ao entrar no programa dá mensagem de erro `-2147467259 -
 DBNETLIB conexão com banco de dados falhou`
 
-## Descrição
+### Descrição
 
 Este problema ocorre:
 
@@ -20,14 +20,14 @@ Imagem.
 2. ou quando é necessário configurar na estação de trabalho a
 porta TCPIP do Servidor.
 
-## Solução
+### Solução
 
 1. Retornar a estabilidade de acesso ao servidor via rede.
 
 2. Configurar no arquivo `Laudoimagem.ini` a porta TCPIP do
 servidor do Laudo & Imagem.
 
-## Procedimentos
+### Procedimentos
 
 Para confirmar se o problema é na rede:
 

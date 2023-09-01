@@ -2,18 +2,18 @@
 sidebar_position: 66
 ---
 
-# Run time 53 - File not found
+## Run time 53 - File not found
 
-## Problema
+### Problema
 
 Dá mensagem de erro `Run time 53 - File not found`.
 
-## Descrição
+### Descrição
 
 Algum arquivo foi removido. A mensagem geralmente inclui o nome do
 arquivo que não foi encontrado.
 
-## Solução
+### Solução
 
 1. Procurar na lixeira do computador o arquivo indicado e
 restaurar.

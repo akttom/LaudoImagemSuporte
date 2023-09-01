@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introdução
+## Introdução
 
 O Laudo & Imagem armazena dados, imagens e/ou vídeos dos exames.
 

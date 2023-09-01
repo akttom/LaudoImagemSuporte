@@ -2,12 +2,12 @@
 sidebar_position: 23
 ---
 
-# Não grava CD para paciente
-## Problema
+## Não grava CD para paciente
+### Problema
 
 No programa Laudo & Imagem, na opção Gravar CDROM, não grava CD para o paciente.
 
-## Descrição
+### Descrição
 
 Somente serão gravados CD para pacientes, se houver vídeo do exame capturado.
 
@@ -15,13 +15,13 @@ Exames somente com imagens, não serão gravados em CD.
 
 Confirmado que existe video capturado no exame e mesmo assim não grava, não grava o CD para o paciente a partir do botão Gravar CDROM na tela de laudo, é necessário configurar a gravação da mídia CD.
 
-## Solução
+### Solução
 
 Sem video capturado, não tem como gravar automaticamente a partir do sistema.
 
 Com video capturado, para resolver o problema, é necessário configurar o windows para permitir a gravação do CD.
 
-## Procedimentos
+### Procedimentos
 
 * Gravar exame COM video capturado:
 

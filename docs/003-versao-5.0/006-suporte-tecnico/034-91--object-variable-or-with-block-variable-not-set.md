@@ -2,21 +2,21 @@
 sidebar_position: 34
 ---
 
-# 91 - Object variable or With block variable not set
+## 91 - Object variable or With block variable not set
 
-## Problema
+### Problema
 
 Ao Capturar dá erro 91 - Object variable or with block variable
 not set.
 
-## Descrição
+### Descrição
 
 1. A resolução do Windows pode estar menor do que o necessário.
 
 2. O drive da placa de captura pode ter sido alterado por algum
 outro programa.
 
-## Solução
+### Solução
 
 1a. Entrar em Propriedades / Configurações de tela e alterar a
 resolução para 800 x 600 ou 1024 x 768
@@ -27,7 +27,7 @@ Instruções de restauração em Restaurar Windows; ou
 2. Remover, atualizar e/ou re-instalar o drive da placa de
 captura.
 
-## Procedimentos
+### Procedimentos
 
 2. Remover, atualizar e/ou re-instalar o drive da placa de
 captura

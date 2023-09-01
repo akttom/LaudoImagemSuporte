@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Para quem tem site hospedado
+## Para quem tem site hospedado
 
 Para quem já possui um site desenvolvido, é possível:
 

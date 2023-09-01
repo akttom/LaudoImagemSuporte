@@ -2,25 +2,25 @@
 sidebar_position: 52
 ---
 
-# Run time 13 - Type Mismatch
+## Run time 13 - Type Mismatch
 
-## Problema
+### Problema
 
 Ao clicar em alguma etapa e/ou visualizar a impressão após
 atualização de versão, ocorre o erro `Run time error 13 - Type
 Mismatch`.
 
-## Descrição
+### Descrição
 
 Este problema ocorre em algumas máquinas em que a atualização de
 arquivos DLL na pasta Windows não é realizada devido a permissões de
 usuário.
 
-## Solução
+### Solução
 
 Registrar a DLL manualmente.
 
-## Procedimentos
+### Procedimentos
 
 Acesse a pasta `Laudoimagem\Util` do SERVIDOR
 

@@ -2,23 +2,20 @@
 sidebar_position: 3
 ---
 
-# Suporte Assinado
+## Suporte Assinado
 
-## A assinatura de suporte tem as seguintes características:
+### A assinatura de suporte tem as seguintes características:
 
 -   Atendimento imediato via [Suporte
-    Remoto](https://www.laudoimagem.com.br/suporte) \*
+    Remoto](https://www.laudoimagem.com.br/suporte-remoto) \*
 -   Atualizações (update) da versão adquirida sem custo adicional \*\*
 -   Atualizações (upgrade) para novas versões e/ou versões com mudança
     de tecnologia com descontos expressivos \*\*
 -   Incluso a re-instalação e/ou troca do computador (Servidor do
-    sistema e Estações de trabalho - 4 instalações de janeiro a dezembro
-    de cada ano)
+    sistema e Estações de trabalho - 4 instalações a cada 12 meses de contrato)
 -   Descontos especiais sobre o valor de tabela em aquisições de
-    licenças adicionais \*\*
+    licenças adicionais e upgrade de versão \*\*
 -   Pagamento via mensalidade ou anuidade (boleto bancário)
--   [Se versão 4.2 ou anterior, clique
-    aqui](#6308cdbb-080b-43b1-be6c-9eee996e6b02)
 
 <br />
 

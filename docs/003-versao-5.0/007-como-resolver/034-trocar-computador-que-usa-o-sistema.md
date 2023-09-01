@@ -2,8 +2,8 @@
 sidebar_position: 34
 ---
 
-# Trocar computador que usa o sistema
-## Problema
+## Trocar computador que usa o sistema
+### Problema
 
 Trocar computador ou nome do computador na licença do sistema Laudo & Imagem que não seja o servidor do Laudo & Imagem.
 
@@ -11,7 +11,7 @@ Nesse caso as instruções são diferentes e específicas.
 
 Entre em contato com o Suporte Técnico <suporte@laudoimagem.com.br>.
 
-## Descrição
+### Descrição
 
 É possível trocar o computador ou o nome do computador que não seja o servidor do Laudo & Imagem.
 
@@ -19,7 +19,7 @@ Trocar o computador que é uma estação de trabalho por outro computador; ou
 
 Trocar o nome do computador que é uma estação de trabalho, foi formatada e o nome foi alterado.
 
-## Solução
+### Solução
 
 ### Incluir novo computador para receber a licença do Laudo & Imagem**
 

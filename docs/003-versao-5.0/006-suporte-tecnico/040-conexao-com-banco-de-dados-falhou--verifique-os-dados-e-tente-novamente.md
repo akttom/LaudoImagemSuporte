@@ -2,24 +2,24 @@
 sidebar_position: 40
 ---
 
-# Conexão com banco de dados falhou - Verifique os dados e tente novamente
+## Conexão com banco de dados falhou - Verifique os dados e tente novamente
 
-## Problema
+### Problema
 
 Ao instalar o programa dá mensagem de erro `Conexão com banco de
 dados falhou - Verifique os dados e tente novamente...`
 
-## Descrição
+### Descrição
 
 Este problema ocorre quando é necessário incluir a porta TCPIP do
 Servidor no caminho do Servidor de banco de dados.
 
-## Solução
+### Solução
 
 Configurar no caminho do Servidor de banco de dados a porta TCPIP do
 SQL Server usado no Laudo & Imagem.
 
-## Procedimentos
+### Procedimentos
 
 No computador que é a Estação de trabalho do Laudo & Imagem:
 

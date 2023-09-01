@@ -2,19 +2,19 @@
 sidebar_position: 3
 ---
 
-# Assinatura eletrônica nova - como incluir
-## Problema
+## Assinatura eletrônica nova - como incluir
+### Problema
 
 Necessário incluir nova assinatura eletrônica no sistema.
 
-## Descrição
+### Descrição
 
 O arquivo pode ser confeccionado pelo cliente ou pelo suporte Laudo & Imagem.
 
 - se confeccionado pelo cliente, veja instruções abaixo.
 - se confeccionado pelo suporte Laudo & Imagem, terá custo. Consulte o valor [suporte@laudoimagem.com.br](mailto:suporte@laudoimagem.com.br)
 
-## Solução
+### Solução
 
 #### Confeccionado pelo cliente:
 

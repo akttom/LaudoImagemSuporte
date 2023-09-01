@@ -2,23 +2,23 @@
 sidebar_position: 2
 ---
 
-# 10061 - connection is forcefully rejected
+## 10061 - connection is forcefully rejected
 
-## Problema
+### Problema
 
 Ao entrar no programa dá mensagem de erro `10061 - connection
 is forcefully rejected`
 
-## Descrição
+### Descrição
 
 Este problema ocorre quando o componente `liserver` que inicia a
 conexão com o banco de dados foi automaticamente fechado.
 
-## Solução
+### Solução
 
 Retornar a execução do arquivo.
 
-## Procedimentos
+### Procedimentos
 
 - Para confirmar o problema, clique em `CTRL` + `ALT` + `DEL` e abra a opção
   `Gerenciador de Tarefas`.
@@ -30,12 +30,9 @@ Retornar a execução do arquivo.
   conexão com o banco de dados será reestabelecida.
 - O programa Laudo & Imagem voltará a funcionar.
 
-Se o componente `liserver` não executar automaticamente, verifique
-se está em Todos os Programas / Inicializar.
-
-Se não estiver, siga as instruções abaixo:
+Se o componente `liserver` não executar automaticamente,  siga as instruções abaixo:
 - abra a pasta de instalação do Laudo & Imagem (geralmente
-`C:\Arquivos de Programas\Laudoimagem`)
+`C:\Arquivos de Programas\Laudoimagem\Serviços`)
 - localize o arquivo `liserver.exe` e dê dois clique sobre o
 arquivo.
 - minimize a tela do LiServer aberta e tente abrir o Laudo &

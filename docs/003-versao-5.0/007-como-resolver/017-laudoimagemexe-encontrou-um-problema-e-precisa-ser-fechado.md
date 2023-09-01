@@ -2,22 +2,22 @@
 sidebar_position: 17
 ---
 
-# Laudoimagem.exe encontrou um problema e precisa ser fechado.
-## Problema
+## Laudoimagem.exe encontrou um problema e precisa ser fechado.
+### Problema
 
 Ao entrar na pré-visualização de impressão ou ao imprimir, ocorre um erro com o seguinte texto:"Laudoimagem.exe encontrou um problema e será fechado"
 
-## Descrição
+### Descrição
 
 Este problema ocorre em máquinas recém formatadas ou que foram atualizadas para Windows SP3 ou com Framework 2.0 ou maior.
 
 Essas atualizações podem ter sido realizadas automaticamente ou intencionalmente.
 
-## Solução
+### Solução
 
 Faça download do arquivo crnet11win_en.exe e execute em cada máquina em que este problema ocorrer.
 
-## Procedimentos
+### Procedimentos
 
 Faça download do arquivo crnet11win_en.zip
 
