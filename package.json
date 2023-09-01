@@ -9,6 +9,7 @@
     "swizzle": "docusaurus swizzle",
     "predeploy": "yarn build",
     "deploy": "echo suporte1.laudoimagem.com.br > .\\build\\CNAME && gh-pages -d .\\build",
+    "predeploy-mac": "yarn build",
     "deploy-mac": "echo suporte1.laudoimagem.com.br > ./build/CNAME && gh-pages -d ./build",
     "docusaurus-deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
