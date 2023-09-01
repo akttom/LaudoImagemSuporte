@@ -2,14 +2,14 @@
 sidebar_position: 11
 ---
 
-## 2 Caminho inexistente DIR_SVR_Video
+# 2 Caminho inexistente DIR_SVR_Video
 
-### Problema
+## Problema
 
 Ao entrar no programa dá mensagem de erro `-2 Caminho
 inexistente DIR_SVR_VIDEO=...`
 
-### Descrição
+## Descrição
 
 Este problema ocorre quando existe alguma instabilidade na
 conexão via rede entre o computador que é a Estação de trabalho
@@ -22,7 +22,7 @@ Ou se a instalação foi feita pelo IP do Servidor e o IP mudou.
 Ou se a instalação foi feita pelo nome do Servidor e o nome
 mudou.
 
-### Solução
+## Solução
 
 Retornar a estabilidade de acesso ao servidor via rede.
 
@@ -33,7 +33,7 @@ Fixar o IP no Servidor.
 
 Retornar o nome anterior do Servidor.
 
-### Procedimentos
+## Procedimentos
 
 Para confirmar se o problema é na rede entre no ícone Meu
 computador na área de trabalho.

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-## Introdução
+# Introdução
 
 ![](./img/fin-logo.svg)
 

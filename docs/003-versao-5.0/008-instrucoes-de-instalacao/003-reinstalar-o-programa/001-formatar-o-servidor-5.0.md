@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-## Reinstalar o Programa
+# Reinstalar o Programa
 
-### Reinstalar o Servidor 5.0
+## Reinstalar o Servidor 5.0
 
 Devido aos problemas enfrentados com o envio de instruções sobre a
 re-instalação do sistema, no computador que é o **servidor** do Laudo &

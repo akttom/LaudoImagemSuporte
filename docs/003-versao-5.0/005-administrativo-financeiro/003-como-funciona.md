@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-## Como funciona
+# Como funciona
 
 Ao assinar o serviço, a configuração e uso do sistema é realizado
 totalmente na Nuvem, o que permite que o acesso seja realizado de

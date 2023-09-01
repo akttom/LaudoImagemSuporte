@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-## Downloads
+# Downloads
 
 Leia atentamente as instruções antes de iniciar os procedimentos.
 não nos responsabilizamos pelas ações realizadas sem o perfeito entendimento das instruções e/ou por pessoas sem o devido conhecimento técnico necessário.
@@ -24,5 +24,5 @@ Consulte as instruções antes de iniciar a instalação.
 - [Arquivos de Atualização: Cor_S_5_0_25.exe](http://suporte.laudoimagem.com.br/download/versao50/5.0.25/Cor_S_5_0_25.exe)
 - [Arquivos_UFRJ](http://suporte.laudoimagem.com.br/download/Aline/Logonovo.exe)
 
-### Observações:
+## Observações:
 Se tiver alguma dúvida, envie um e-mail para suporte@laudoimagem.com.br

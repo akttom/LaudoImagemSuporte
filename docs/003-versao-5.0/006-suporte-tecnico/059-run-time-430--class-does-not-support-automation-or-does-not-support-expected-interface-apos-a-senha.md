@@ -2,15 +2,15 @@
 sidebar_position: 59
 ---
 
-## Run time 430 - Class does not support Automation or does not support expected interface após a senha**
+# Run time 430 - Class does not support Automation or does not support expected interface após a senha**
 
-### Problema
+## Problema
 
 Após digitar a senha ou ao capturar aparece a mensagem `Run time
 430 - Class does not support Automation or does not support expected
 interface`.
 
-### Solução
+## Solução
 
 Registtrar as DLL's e caso o executável retorne erro, copie os
 arquivos para a pasta `C:\Windows`:

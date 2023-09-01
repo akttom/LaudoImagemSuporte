@@ -2,12 +2,12 @@
 sidebar_position: 11
 ---
 
-## Consulta demora e dá mensagem Tempo excedido
-### Problema
+# Consulta demora e dá mensagem Tempo excedido
+## Problema
 
 Ao entrar na área de Consulta e realizar uma consulta qualquer, demora excessivamente e retorna mensagem de Tempo Excedido.
 
-### Descrição
+## Descrição
 
 Este problema ocorre nos computadores em que o banco de dados do Laudo & Imagem estão com grande quantidade de registros.
 
@@ -17,13 +17,13 @@ Este problema ocorre nos computadores em que o banco de dados do Laudo & Imagem 
 
 **RISCO DE PERDER TODOS OS DADOS, CASO PROCEDIMENTOS INDICADOS NÃO SEJAM REALIZADOS POR TÉCNICO COM CONHECIMENTOE ENTENDIMENTO DAS INSTRUÇÕES**
 
-### Solução
+## Solução
 
 Execute os procedimentos descritos em [2147467259 - Tempo excedido](%5Cl%20%22f8ba3a58-caf9-4b05-923e-375573f61735%22)
 
 Não resolvendo siga os passos descritos abaixo.
 
-### Procedimentos
+## Procedimentos
 
 Faça download dos arquivos abaixo:
 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-## Suporte Técnico
+# Suporte Técnico
 
 Se houver alguma dúvida, consulte nosso suporte técnico apenas
 por e-mail -

@@ -2,14 +2,14 @@
 sidebar_position: 70
 ---
 
-## Run time 9 - Subscript out of range
+# Run time 9 - Subscript out of range
 
-### Problema
+## Problema
 
 Ao digitar a senha e entrar no programa, aparece a mensagem de erro
 `Run time error 9 - Subscript out of range`.
 
-### Descrição
+## Descrição
 
 Este problema ocorre em algumas máquinas quando:
 
@@ -20,7 +20,7 @@ Este problema ocorre em algumas máquinas quando:
 3. se foi instalado algum outro drive ou componente de captura como
 uma webcam por exemplo.
 
-### Solução
+## Solução
 
 Para resolver o problema:
 

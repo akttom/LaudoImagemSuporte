@@ -2,21 +2,21 @@
 sidebar_position: 62
 ---
 
-## Run time 481 - Invalid picture ao capturar imagem
+# Run time 481 - Invalid picture ao capturar imagem
 
-### Problema
+## Problema
 
 Ao capturar aparece  mensagem `Run time 481 - Invalid Picture` e
 no local fica ícone `Imagem não localizada`.
 
-### Descrição
+## Descrição
 
 1. As configurações da captura podem ter sido modificadas;
 
 2. O limite de arquivos na pasta JPG excedeu a capacidade permitida
 do Windows.
 
-### Solução
+## Solução
 
 1. Configurar a captura de imagem e/ou vídeo;
 

@@ -2,14 +2,14 @@
 sidebar_position: 28
 ---
 
-## 2147467259 - DBNETLIB CONNECT SQL SERVER Especificado não encontrado
+# 2147467259 - DBNETLIB CONNECT SQL SERVER Especificado não encontrado
 
-### Problema
+## Problema
 
 Ao entrar no programa dá mensagem de erro `-2147467259 -
 DBNETLIB CONNECT SQL SERVER Especificado não encontrado`
 
-### Descrição
+## Descrição
 
 Este problema ocorre:
 
@@ -23,7 +23,7 @@ computador e passa a acessar somente pelo IP do servidor;
 3. ou quando é necessário configurar na estação de trabalho a
 porta TCPIP do Servidor.
 
-### Solução
+## Solução
 
 1. Retornar a estabilidade de acesso ao servidor via rede.
 
@@ -33,7 +33,7 @@ computado, alterar o nome do servidor para IP.
 3. Configurar no arquivo `Laudoimagem.ini` a porta TCPIP do
 servidor do Laudo & Imagem.
 
-### Procedimentos
+## Procedimentos
 
 <u> Para confirmar se o problema é na rede </u>:
 

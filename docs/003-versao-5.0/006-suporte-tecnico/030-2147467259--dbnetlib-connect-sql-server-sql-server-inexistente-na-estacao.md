@@ -2,15 +2,15 @@
 sidebar_position: 30
 ---
 
-## 2147467259 - DBNETLIB CONNECT SQL SERVER SQL Server inexistente na estação
+# 2147467259 - DBNETLIB CONNECT SQL SERVER SQL Server inexistente na estação
 
-### Problema
+## Problema
 
 Ao entrar no programa dá mensagem de erro `-2147467259 -
 DBNETLIB CONNECT SQL SERVER SQL Server inexistente ou acesso
 negado` na estação de trabalho.
 
-### Descrição
+## Descrição
 
 Este problema ocorre:
 
@@ -24,7 +24,7 @@ Imagem.
 3. ou quando é necessário configurar na estação de trabalho a
 porta TCPIP do Servidor.
 
-### Solução
+## Solução
 
 1. Retornar o nome ánterior do computador que é o servidor.
 
@@ -33,9 +33,9 @@ porta TCPIP do Servidor.
 3. Configurar no arquivo `Laudoimagem.ini` a porta TCPIP do
 servidor do Laudo & Imagem.
 
-### Procedimentos
+## Procedimentos
 
-### Para confirmar se o problema é na rede:
+## Para confirmar se o problema é na rede:
 
 Entre no ícone Meu computador na área de trabalho.
 
@@ -52,7 +52,7 @@ trabalho e/ou domínio.
 Quando a conexão for reestabelecida o programa `Laudo & Imagem`
 voltará a funcionar.
 
-### Configurar a porta TCPIP:
+## Configurar a porta TCPIP:
 
 No computador que é o Servidor do `Laudo & Imagem`:
 

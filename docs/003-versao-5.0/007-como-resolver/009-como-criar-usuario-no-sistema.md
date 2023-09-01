@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-## Como criar usuário no sistema
+# Como criar usuário no sistema
 
 O Laudo & Imagem permite criar usuários para acesso ao programa.
 

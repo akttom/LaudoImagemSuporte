@@ -2,18 +2,18 @@
 sidebar_position: 15
 ---
 
-## Imagem não localizada
-### Problema
+# Imagem não localizada
+## Problema
 
 Ao capturar aparece "Imagem não localizada".
 
-### Descrição
+## Descrição
 
 1. As configurações da captura podem ter sido modificadas;
 
 2. O limite de arquivos na pasta JPG excedeu a capacidade permitida do Windows.
 
-### Solução
+## Solução
 
 1. Configurar a captura de imagem e/ou vídeo;
 

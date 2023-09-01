@@ -2,18 +2,18 @@
 sidebar_position: 25
 ---
 
-## Não visualiza na lista exames mais antigos
-### Problema
+# Não visualiza na lista exames mais antigos
+## Problema
 
 Na lista de cadastro de exames não aparecem os exames mais antigos.
 
-### Descrição
+## Descrição
 
 O sistema permite ao usuário configurar para exibir na lista somente os últimos 500 exames cadastrados.
 
 A configuração pode ser modificada para exibir todos os exames cadastrados na lista.
 
-### Solução
+## Solução
 
 Entre no sistema Laudo & Imagem.
 

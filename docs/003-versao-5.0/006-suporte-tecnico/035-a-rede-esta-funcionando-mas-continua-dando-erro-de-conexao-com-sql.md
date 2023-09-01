@@ -2,25 +2,25 @@
 sidebar_position: 35
 ---
 
-## A rede está funcionando, mas continua dando erro de conexão com SQL
+# A rede está funcionando, mas continua dando erro de conexão com SQL
 
-### Problema
+## Problema
 
 Ao entrar no programa dá mensagem de erro `-2 Caminho
 inexistente DIR_SVR_VIDEO=...`
 
-### Descrição
+## Descrição
 
 Este problema ocorre quando a porta TCPIP mudou, não está
 configurada no Firewall ou precisará ser incluída no arquivo de
 configuração da estação de trabalho.
 
-### Solução
+## Solução
 
 Configurar a porta TCPIP e/ou acrescentar no arquivo de
 configuração da estação de trabalho.
 
-### Procedimentos
+## Procedimentos
 
 <u>No Servidor</u>, clicar em Iniciar / Todos os
 Programas / Microsoft SQL Server 2005

@@ -2,22 +2,22 @@
 sidebar_position: 21
 ---
 
-## Não aparecem as opções de Fotografia e Video
-### Problema
+# Não aparecem as opções de Fotografia e Video
+## Problema
 
 Não aparecem as opções de Fotografia e Vídeo na área de Captura.
 
-### Descrição
+## Descrição
 
 As licenças podem ter sido modificadas ou a instalação do drive da placa de captura foi alterado.
 
-### Solução
+## Solução
 
 Confirmar se as licenças estão corretas e/ou re-instalar o drive da placa de captura.
 
 Se placa de captura externa, verificar se a placa está na USB e se a USB está funcionando.
 
-### Procedimentos
+## Procedimentos
 
 Para confirmar as licenças:
 

@@ -2,23 +2,23 @@
 sidebar_position: 45
 ---
 
-## LicProv - connection is forcefully rejected
+# LicProv - connection is forcefully rejected
 
-### Problema
+## Problema
 
 Ao entrar no programa dá mensagem de erro `LicProv - connection is
 forcefully rejected`
 
-### Descrição
+## Descrição
 
 Este problema ocorre quando o componente `liserver` que inicia a
 conexão com o banco de dados automaticamente foi fechado.
 
-### Solução
+## Solução
 
 Retornar a execução do arquivo.
 
-### Procedimentos
+## Procedimentos
 
 Para confirmar o problema, clique em `CTRL` + `ALT` + `DEL` e abra a opção
 Gerenciador de Tarefas.

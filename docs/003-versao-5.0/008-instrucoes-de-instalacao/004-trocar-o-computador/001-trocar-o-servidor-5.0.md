@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-## Trocar o Servidor 5.0
+# Trocar o Servidor 5.0
 
 Devido aos problemas enfrentados com o envio de instruções sobre a
 re-instalação do sistema, no computador sendo o **servidor** do Laudo &

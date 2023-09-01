@@ -2,34 +2,34 @@
 sidebar_position: 42
 ---
 
-## Imagem não localizada
+# Imagem não localizada
 
-### Problema
+## Problema
 
 Ao capturar aparece `Imagem não localizada`.
 
-### Descrição
+## Descrição
 
 1. As configurações da captura podem ter sido modificadas;
 
 2. O limite de arquivos na pasta JPG excedeu a capacidade permitida
 do Windows.
 
-### Solução
+## Solução
 
 1. Configurar a captura de imagem e/ou vídeo;
 
 2. Fazer backup das imagens e remover imagens antigas do diretório
 JPG.
 
-### Procedimento 1: Configurações da captura
+## Procedimento 1: Configurações da captura
 
-#### Verifique
+### Verifique
 
 se o cabo está bem conectado na placa e no equipamento do exame,
 teste.
 
-#### Confirme
+### Confirme
 
 A dimensão da imagem que está sendo capturada
 
@@ -39,14 +39,14 @@ escolha `640 x 480` ou `320 x 240`.
 Clique em `Captura` / `Video` / `Formato` e na opção `Dimensões`, escolha
 `640 x 480` ou `320 x 240`.
 
-#### Confirme
+### Confirme
 
 o codec de captura que precisa ser o DIVX 5.2.1
 
 Clique em Captura / Video / Formato e na 1ª opção escolha na lista
 DIVX 5.2.1
 
-#### Confirme
+### Confirme
 
 o sinal de vídeo que pode ser SVideo ou RCA (Composite) dependendo
 do cabo utilizado
@@ -57,7 +57,7 @@ selecione S-Video, teste
 Se não resolver, clique em Captura / Fotografia / Placa e no item
 Source Select selecione Composite, teste
 
-#### Confirme
+### Confirme
 
 o sinal de vídeo que precisa ser NTSC
 
@@ -68,7 +68,7 @@ Após realizar o procedimento acima
 
 Entre no programa e verifique se o problema foi resolvido
 
-### Procedimento 2: Backup e remoção de imagens
+## Procedimento 2: Backup e remoção de imagens
 
 Entre no programa Laudo & Imagem no Servidor do Laudo & Imagem
 

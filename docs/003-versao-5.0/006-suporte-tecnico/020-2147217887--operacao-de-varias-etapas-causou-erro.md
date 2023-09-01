@@ -2,23 +2,23 @@
 sidebar_position: 20
 ---
 
-## 2147217887 - Operação de várias etapas causou erro
+# 2147217887 - Operação de várias etapas causou erro
 
-### Problema
+## Problema
 
 Ao entrar na área de Cadastro e tentar criar ou alterar exame.
 
-### Descrição
+## Descrição
 
 Este problema ocorre quando as configurações regionais do
 computador foram alteradas.
 
-### Solução
+## Solução
 
 Para resolver o problema, é necessário alterar as configurações
 regionais para dd/mm/aaaa.
 
-### Procedimentos
+## Procedimentos
 
 Configurações Regionais
 

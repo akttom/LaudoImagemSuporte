@@ -2,11 +2,11 @@
 sidebar_position: 4
 ---
 
-## Backup de imagens
+# Backup de imagens
 
-### Periodicidade sugerida: semanal
+## Periodicidade sugerida: semanal
 
-### Para fazer o backup de imagens
+## Para fazer o backup de imagens
 
 1. Entre no Laudo & Imagem na tela `Cadastro` e clique no botão
 ![](./img/004-backup-de-imagens-botao.png) - Painel de Procedimentos
@@ -16,12 +16,12 @@ sidebar_position: 4
 5. Escolha em `Ação` a opção `Copiar` ou `Mover` as imagens
    para o drive de backup.
    Quando o usuário escolhe `Copiar`, as imagens serão copiadas para
-   o backup, ficando uma cópia no HD onde o programa está instalado.  
+   o backup, ficando uma cópia no HD onde o programa está instalado.
    Quando a opção escolhida é `Mover`, as imagens serão movidas para
-   o backup, sendo que nenhuma cópia ficará no HD.  
-   Atenção: Mover as imagens é uma ação ireeversível.  
+   o backup, sendo que nenhuma cópia ficará no HD.
+   Atenção: Mover as imagens é uma ação ireeversível.
    Como os HD's atuais são de larga capacidade, recomendamos que seja
-   utilizada a opção `Copiar`.  
+   utilizada a opção `Copiar`.
    Isso faz com o que, ao fazer uma consulta, o programa localize
    imediatamente as imagens ao invés de pedir o drive onde as imagens
    estão armazenadas.

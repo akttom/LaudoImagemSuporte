@@ -2,7 +2,7 @@
 sidebar_position: 28
 ---
 
-## Reunir Videos das estações no Servidor
+# Reunir Videos das estações no Servidor
 Os videos dos exames são capturados localmente em cada estação.
 
  Para que sejam visualizados em todas as estações, é necessário reunir os vídeos no Servidor do Laudo & Imagem.

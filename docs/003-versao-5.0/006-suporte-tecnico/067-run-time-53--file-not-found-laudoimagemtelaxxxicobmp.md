@@ -2,19 +2,19 @@
 sidebar_position: 67
 ---
 
-## Run time 53 - File not found `...\Laudoimagem\Telaxxx\Ico...bmp`
+# Run time 53 - File not found `...\Laudoimagem\Telaxxx\Ico...bmp`
 
-### Problema
+## Problema
 
 Dá mensagem de erro Run time 53 - File not
 found `...\Laudoimagem\Telaxxx\Ico...bmp`
 
-### Descrição
+## Descrição
 
 Algum arquivo dessa pasta foi removido. A mensagem geralmente inclui
 o nome do arquivo que não foi encontrado.
 
-### Solução
+## Solução
 
 1. Procurar na lixeira do computador o arquivo indicado e
 restaurar.

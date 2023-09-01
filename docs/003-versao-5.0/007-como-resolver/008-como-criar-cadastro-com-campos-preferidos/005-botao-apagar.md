@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-## Botão apagar (preferidos)
+# Botão apagar (preferidos)
 
 O usuário pode criar quantos "preferidos" quiser. Porém, é de bom senso fazer isso com moderação e desde que necessário, para não preencher a lista com "preferidos" inúteis.
 

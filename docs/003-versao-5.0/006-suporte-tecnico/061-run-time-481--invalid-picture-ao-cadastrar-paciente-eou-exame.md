@@ -2,19 +2,19 @@
 sidebar_position: 61
 ---
 
-## Run time 481 - Invalid picture ao cadastrar paciente e/ou exame
+# Run time 481 - Invalid picture ao cadastrar paciente e/ou exame
 
-### Problema
+## Problema
 
 Ao clicar no botão Novo da tela de Cadastro para cadastrar Paciente
 e/ou exame aparece mensagem `Run time 481 - Invalid Picture`.
 
-### Descrição
+## Descrição
 
 Arquivos de configuração da tela do sistema podem ter sido alterados
 e/ou removidos.
 
-### Solução
+## Solução
 
 Executar aplicativo de atualização de tela - TelaNovo.exe.
 

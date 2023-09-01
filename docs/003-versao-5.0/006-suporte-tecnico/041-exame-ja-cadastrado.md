@@ -2,19 +2,19 @@
 sidebar_position: 41
 ---
 
-## Exame já cadastrado
+# Exame já cadastrado
 
-### Problema
+## Problema
 
 Ao cadastrar um exame, dá mensagem `Exame já cadastrado`.
 
-### Descrição
+## Descrição
 
 Este problema ocorre quando o número do exame ao ser digitado ou
 gerado de forma automática, já foi cadastrado anteriormente e não
 aparece na lista de exames cadastrados.
 
-### Solução
+## Solução
 
 Para resolver o problema, é necessário entrar no ícone de Critérios
 de exibição de exames e selecionar todos os tipos de exame, de
@@ -22,7 +22,7 @@ Requisitante, Procedência, todas as datas, todos os tipos (prontos,
 assinados, etc), para que sejam exibidos todos os exames cadastrados
 na lista.
 
-### Procedimentos
+## Procedimentos
 
 Entre no sistema `Laudo & Imagem` na tela de `Cadastro`
 
@@ -52,7 +52,7 @@ Preencha no campo `Iniciar` em o último número cadastrado.
 
 O sistema irá cadastrar com o próximo número de exame
 
-### Exemplo:
+## Exemplo:
 
 Último exame cadastrado: `11000012EN`
 

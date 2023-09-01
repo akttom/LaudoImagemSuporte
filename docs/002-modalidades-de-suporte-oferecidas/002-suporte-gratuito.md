@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-## Suporte Gratuito
+# Suporte Gratuito
 
 Essa modalidade, não oferece agilidade na solução de problemas e/ou esclarecimento de
 dúvidas.
@@ -23,7 +23,7 @@ ON-LINE </u> e tem as seguintes características:
 -   O Cliente aguarda a atualização da documentação on-line ou alguma
     orientação específica por e-mail.
 
-#### Para agilizar a resposta, o e-mail a ser enviado para o suporte deve conter os seguintes itens:
+### Para agilizar a resposta, o e-mail a ser enviado para o suporte deve conter os seguintes itens:
 
 -   Nome do médico e/ou clínica/hospital/laboratório
 -   Código do cliente (este código encontra-se na tela de entrada do
@@ -43,7 +43,7 @@ ON-LINE </u> e tem as seguintes características:
     devido a complexidade e envolvimento do registro da licença e é uma
     ação com obrigatoriedade de contratação de suporte avulso
 
-#### Importante
+### Importante
 
 -   Leia com atenção as respostas e instruções do suporte.
 -   Na maioria dos casos o problema persiste porque o usuário não

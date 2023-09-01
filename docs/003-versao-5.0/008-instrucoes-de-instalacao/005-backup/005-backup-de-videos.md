@@ -2,11 +2,11 @@
 sidebar_position: 5
 ---
 
-## Backup de vídeos
+# Backup de vídeos
 
-### Periodicidade sugerida: semanal
+## Periodicidade sugerida: semanal
 
-### Para fazer o backup de vídeos
+## Para fazer o backup de vídeos
 
 1. Procedimento deve ser realizado no computador que realiza a
    captura de imagens e vídeos no Laudo & Imagem

@@ -2,25 +2,25 @@
 sidebar_position: 71
 ---
 
-## The request failed or the service did not respond in a timely fashion
+# The request failed or the service did not respond in a timely fashion
 
-### Problema
+## Problema
 
 Ao tentar iniciar o SQL Epxress dá mensagem de erro `The request
 failed or the service did not respond in a timely fashion. Consult
 the event log or other applicable error logs for details` e SQL não
 inicia.
 
-### Descrição
+## Descrição
 
 Este problema ocorre quando a instalação do SQL corrompeu ou o banco
 de dados foi corrompido.
 
-### Solução
+## Solução
 
 Reparar o `MSSQL Server Express`
 
-### Procedimentos
+## Procedimentos
 
 Necessário que os procedimentos sejam realizados pela equipe de
 suporte do Laudo & Imagem.

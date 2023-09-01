@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-## Suporte Assinado
+# Suporte Assinado
 
-### A assinatura de suporte tem as seguintes características:
+## A assinatura de suporte tem as seguintes características:
 
 -   Atendimento imediato via [Suporte
     Remoto](https://www.laudoimagem.com.br/suporte-remoto) \*

@@ -2,23 +2,23 @@
 sidebar_position: 12
 ---
 
-## Gravando arquivos de Video muito grandes
-### Problema
+# Gravando arquivos de Video muito grandes
+## Problema
 
 Os arquivos de video são gravados com tamanho muito grande.
 
-### Descrição
+## Descrição
 
 Os videos são gravados com tamanho grande, quando naõ está selecionado o codec de compressão ou não está instalado o codec de compressão..
 
-### Solução
+## Solução
 
 Confirmar se o Codec está instalado.\
 Se estiver instalado, selecione na lista.
 
 Se não estiver instalado, precisa instalar.
 
-### Procedimentos
+## Procedimentos
 
 Acesse o sistema Laudo & Imagem.
 

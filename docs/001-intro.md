@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-## Laudo & Imagem Suporte Web
+# Laudo & Imagem Suporte Web
 
 A documentação a seguir, foi elaborada para os clientes que fazem a
 opção de obter suporte de forma gratuita.
@@ -14,8 +14,8 @@ problemas.
 
 Para consultar a documentação on-line, localize a versão, o nº do erro
 e/ou a mensagem, problema ou dúvida e clique no link correspondente.
- 
-**Leia atentamente as instruções antes de iniciar os procedimentos.**  
+
+**Leia atentamente as instruções antes de iniciar os procedimentos.**
 **Não nos responsabilizamos pelas ações realizadas sem o perfeito
 entendimento das instruções e/ou por pessoas sem o devido conhecimento
 técnico necessário.**

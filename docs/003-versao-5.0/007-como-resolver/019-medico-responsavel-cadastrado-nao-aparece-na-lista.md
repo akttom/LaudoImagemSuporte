@@ -2,18 +2,18 @@
 sidebar_position: 19
 ---
 
-## Médico Responsável cadastrado não aparece na lista
-### Problema
+# Médico Responsável cadastrado não aparece na lista
+## Problema
 
 Na tela de cadastro de exames não aparecem todos os médicos cadastrados.
 
-### Descrição
+## Descrição
 
 O médico responsável precisa ter um cadastro de usuário do sistema, ter indicado que é um usuário
 
 Responsável e ter o cadastro correspondente de Médico responsável preenchido e relacionado.
 
-### Solução
+## Solução
 
 Entre no programa de Configurações do sistema Laudo & Imagem (`Iniciar` / `Programas` / `Laudo & Imagem` / `Configurações`)
 

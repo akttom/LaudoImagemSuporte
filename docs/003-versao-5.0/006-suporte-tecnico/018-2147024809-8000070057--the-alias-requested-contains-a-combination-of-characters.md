@@ -2,9 +2,9 @@
 sidebar_position: 18
 ---
 
-## 2147024809 (8000070057) -- The alias requested, contains a combination of characters
+# 2147024809 (8000070057) -- The alias requested, contains a combination of characters
 
-### Problema
+## Problema
 
 Ao imprimir, visualizar a impressão ou assinar o laudo dá
 mensagem de erro:
@@ -12,20 +12,20 @@ mensagem de erro:
 -2147024809 (8000070057) -- The alias requested, contains a
 combination of characters which is not considered to be valid.
 
-### Descrição
+## Descrição
 
 Este problema ocorre quando as configurações da impressora estão
 com tamanho do papel e/ou orientação da página incorretos;
 
 ou quando o drive da impressora foi alterado e/ou desinstalado.
 
-### Solução
+## Solução
 
 Para resolver o problema, é necessário confirmar o perfeito
 funcionamento da impressora e as configurações de tamanho e
 orientação do papel.
 
-### Procedimentos
+## Procedimentos
 
 Configurações da impressora
 

@@ -2,20 +2,20 @@
 sidebar_position: 30
 ---
 
-## Pedal não captura
-### Problema
+# Pedal não captura
+## Problema
 
 Pedal não captura imagem e/ou vídeo.
 
-### Descrição
+## Descrição
 
 O pedal pode ter apresentado defeito ou a porta USB parou de funcionar.
 
-### Solução
+## Solução
 
 Testar em outra porta USB e/ou encaminhar para assistência técnica.
 
-### Procedimentos
+## Procedimentos
 
 Verificar se todos os plug do pedal estão corretamente conectados e testar
 

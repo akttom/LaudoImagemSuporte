@@ -2,25 +2,25 @@
 sidebar_position: 10
 ---
 
-## -1 Número de exame já cadastrado ao adicionar as etapas
+# -1 Número de exame já cadastrado ao adicionar as etapas
 
-### Problema
+## Problema
 
 Ao acessar exame, aparece a mensagem de erro `-1 Número de
 exame já cadastrado`.
 
-### Descrição
+## Descrição
 
 Este problema ocorre quando ao salvar o registro do exame, não
 grava as etapas corretamente.
 
-### Solução
+## Solução
 
 Para resolver o problema, faça download do arquivo
 EtapaJaCadastrada.vbs e execute em qualquer máquina que tenha o
 Laudo & Imagem instalado.
 
-### Procedimentos
+## Procedimentos
 
 Feche o programa Laudo & Imagem.
 

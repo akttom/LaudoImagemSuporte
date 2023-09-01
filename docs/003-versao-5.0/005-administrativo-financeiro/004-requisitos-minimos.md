@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-## Requisitos Mínimos
+# Requisitos Mínimos
 
 Para a ativação do sistema Administrativo Financeiro é necessário
 atender os seguintes requisitos:
@@ -14,6 +14,6 @@ atender os seguintes requisitos:
 -   Acesso à Internet no local onde o sistema será executado
 -   Instalação feita pelo nossa equipe através de acesso remoto às
     máquinas do cliente.
--   Requisito mínimo:  
-    a.  Windows no Servidor do sistema: Windows Server, Windows 7 ou superior  
+-   Requisito mínimo:
+    a.  Windows no Servidor do sistema: Windows Server, Windows 7 ou superior
     b.  FrameWork 4.5 ou superior

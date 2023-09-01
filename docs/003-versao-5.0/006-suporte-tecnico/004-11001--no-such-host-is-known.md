@@ -2,29 +2,29 @@
 sidebar_position: 4
 ---
 
-## 11001 - no such host is known
+# 11001 - no such host is known
 
-### Problema
+## Problema
 
 Ao publicar laudos no site dá mensagem de erro `11001 - no such
 host is known`
 
-### Descrição
+## Descrição
 
 Este problema ocorre quando o nome o caminho das pastas no
-provedor de hospedagem do site estão diferentes do caminho 
+provedor de hospedagem do site estão diferentes do caminho
 indicado na configuração de publicação do sistema Laudo &
 Imagem.
 
-### Solução
+## Solução
 
-#### Identifique:
+### Identifique:
 
 - se a conexão com internet está funcionando corretamente;
 - se o seu site está entrando normalmente;
 - se as configurações de publicação estão corretas.
 
-### Procedimentos
+## Procedimentos
 
 Verificar se a conexão com internet está funcionando
 corretamente

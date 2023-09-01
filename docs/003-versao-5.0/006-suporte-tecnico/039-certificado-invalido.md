@@ -2,22 +2,22 @@
 sidebar_position: 39
 ---
 
-## Certificado inválido
+# Certificado inválido
 
-### Problema
+## Problema
 
 Ao entrar no programa dá mensagem de erro `Certificado Inválido`
 
-### Descrição
+## Descrição
 
 Este problema ocorre proque é preciso instalar a renovação do
 certificado de segurança que não atualizou de forma automática..
 
-### Solução
+## Solução
 
 Instalar o Certificado.
 
-### Procedimentos
+## Procedimentos
 
 Na tela que aparece de alerta, clique em Exibir certificado.
 

@@ -2,12 +2,12 @@
 sidebar_position: 33
 ---
 
-## Tempo excedido na Consulta
-### Problema
+# Tempo excedido na Consulta
+## Problema
 
 Ao fazer a consulta de laudos, retorna mensagem de erro "-2147467259 - Tempo excedido"
 
-### Descrição
+## Descrição
 
 Na Estação: Este problema ocorre quando existe alguma instabilidade na conexão via rede entre o computador que é a Estação de trabalho e o Servidor do Laudo & Imagem.
 
@@ -19,7 +19,7 @@ No Servidor: Este problema ocorre, quando por alguma instabilidade do Windows a 
 
 **RISCO DE PERDER TODOS OS DADOS, CASO PROCEDIMENTOS INDICADOS NÃO SEJAM REALIZADOS POR TÉCNICO COM CONHECIMENTOE ENTENDIMENTO DAS INSTRUÇÕES**
 
-### Solução
+## Solução
 
 Se já foram executados os procedimentos do item "[-2147467259 - Tempo excedido](%5Cl%20%22e3232ddf-0b50-4c78-9b59-220d7adf9b05%22)", execute as instruções abaixo.
 

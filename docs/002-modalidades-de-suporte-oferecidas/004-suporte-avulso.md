@@ -2,16 +2,16 @@
 sidebar_position: 4
 ---
 
-## Suporte Avulso
+# Suporte Avulso
 
-#### No suporte avulso, o atendimento é pago por chamada contratada e atendimento agendado, com as seguintes características:
+### No suporte avulso, o atendimento é pago por chamada contratada e atendimento agendado, com as seguintes características:
 
 -   O Cliente envia um e-mail para
     [suporte@laudoimagem.com.br](mailto:suporte@laudoimagem.com.br)
     descrevendo o problema, solicitando atendimento e concordando com os
     termos de pagamento.
 
-#### Para agilizar o agendamento, o e-mail a ser enviado para o suporte deve conter os seguintes itens:
+### Para agilizar o agendamento, o e-mail a ser enviado para o suporte deve conter os seguintes itens:
 
 -   Nome do médico e/ou clínica/hospital/laboratório
 -   Código do cliente (este código encontra-se na tela de entrada do
@@ -23,7 +23,7 @@ sidebar_position: 4
 -   O agendamento e atendimento será realizado com a maior brevidade
     possível, após a comprovação do pagamento.
 
-#### Obs:
+### Obs:
 
 -   O valor é fixo, para até 5 horas seguidas de atendimento,
     independente da complexidade do problema.

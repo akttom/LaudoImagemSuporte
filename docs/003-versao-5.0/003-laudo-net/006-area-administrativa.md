@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-## Área administrativa do LaudoNET
+# Área administrativa do LaudoNET
 
 
 O LaudoNet oferece área Administrativa com os seguintes recursos:

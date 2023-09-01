@@ -2,18 +2,18 @@
 sidebar_position: 50
 ---
 
-## Path File access error - ao registrar a licença no Windows 7
+# Path File access error - ao registrar a licença no Windows 7
 
-### Problema
+## Problema
 
 Durante o registro da licença, aparece a mensagem Path file acess
 error no Windows 7.
 
-### Descrição
+## Descrição
 
 Este problema ocorre devido a restrições de permissão de escrita.
 
-### Solução
+## Solução
 
 Para resolver o problema, é necessário executar o programa de
 Configurações com Administrador.

@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-## Backup Banco de dados manual
+# Backup Banco de dados manual
 
-### Periodicidade sugerida: diariamente
+## Periodicidade sugerida: diariamente
 
 Para fazer o backup do banco de dados:
 
@@ -29,7 +29,7 @@ Para fazer o backup do banco de dados:
 8. Ao término, uma mensagem aparecerá indicando que o backup foi
    executado com sucesso
 
-### Restaurar o banco de dados
+## Restaurar o banco de dados
 
 **O banco de dados somente deverá ser restaurado em última
 instância, no caso de formatação do HD, por exemplo.**

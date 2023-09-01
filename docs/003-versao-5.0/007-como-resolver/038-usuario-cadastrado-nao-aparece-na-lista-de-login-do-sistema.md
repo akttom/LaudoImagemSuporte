@@ -2,18 +2,18 @@
 sidebar_position: 38
 ---
 
-## Usuário cadastrado não aparece na lista de login do sistema
-### Problema
+# Usuário cadastrado não aparece na lista de login do sistema
+## Problema
 
 Usuário cadastrado não aparece na lista de usuários para login no sistema.
 
-### Descrição
+## Descrição
 
 Cada usuário cadastrado no sistema precisa ter um Perfil de Usuário atribuído.
 
 Sem o Perfil de usuário atribuído, mesmo tendo sido cadastrado, o usuário não irá aparecer na lista.
 
-### Solução
+## Solução
 
 - Entre no programa de Configurações do sistema Laudo & Imagem (`Iniciar` / `Programas` / `Laudo & Imagem` / `Configurações`)
 - Digite usuário e senha com permissão de Administrador do sistema

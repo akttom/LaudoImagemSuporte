@@ -2,20 +2,20 @@
 sidebar_position: 7
 ---
 
-## Captura com qualidade ruim, lento
-### Problema
+# Captura com qualidade ruim, lento
+## Problema
 
 Captura com qualidade ruim, lento.
 
-### Descrição
+## Descrição
 
 As configurações da captura podem ter sido modificadas.
 
-### Solução
+## Solução
 
 Configurar a captura de imagem e/ou vídeo.
 
-### Procedimentos
+## Procedimentos
 
 Verifique:
 

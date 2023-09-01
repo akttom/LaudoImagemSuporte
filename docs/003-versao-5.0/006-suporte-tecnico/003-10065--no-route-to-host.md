@@ -2,29 +2,29 @@
 sidebar_position: 3
 ---
 
-## 10065 - No route to Host
+# 10065 - No route to Host
 
-### Problema
+## Problema
 
 Ao entrar no programa dá mensagem de erro `10065 - No route to
 Host`
 
-### Descrição
+## Descrição
 
 Este problema ocorre quando o nome do computador tem números,
 letras, espaço, \_. ou após instalar o drive da placa de
 captura.
 
-### Solução
+## Solução
 
 Primeiro identifique se o problema é no Servidor ou na Estação
 de trabalho, pois os
 
 procedimentos de solução são diferentes.
 
-### Procedimentos
+## Procedimentos
 
-#### No Servidor
+### No Servidor
 
 Entre em `C:\Windows`
 
@@ -43,7 +43,7 @@ para `127.0.0.1`
 Salve e feche o arquivo `Laudoimagem.ini` e tente entrar no
 programa.
 
-#### Na Estação
+### Na Estação
 
 Altere o nome do computador para um nome menor e sem números,
 traços.

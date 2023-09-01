@@ -4,16 +4,16 @@ sidebar_position: 5
 
 # Versões Encerradas
 
-### As versões 4.2, 4.1, 4.0, 3.1, 3.0, 2.0 e 1.0 foram descontinuadas.
+## As versões 4.2, 4.1, 4.0, 3.1, 3.0, 2.0 e 1.0 foram descontinuadas.
 
 Sistema operacional Windows 95, 98, ME, XP também foram
-descontinuados pela Microsoft.  
+descontinuados pela Microsoft.
 Placa de captura compatível não é mais fabricada e não tem
-suporte do fabricante.  
+suporte do fabricante.
 Adobe descontinuou e Microsoft removeu o Flash Player do
 Windows.
 
-### Importante:
+## Importante:
 
 **Informamos que desde o dia 25/09/2017, o Laudo & Imagem não
 oferecere mais suporte para as versões 4.1, 4.0, 3.1, 3.0, 2.0 e

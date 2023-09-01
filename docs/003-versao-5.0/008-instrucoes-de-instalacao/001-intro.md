@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-## Introdução
+# Introdução
 
 O Laudo & Imagem tem duas instalações diferentes: **servidor** e **estação**
 de trabaho.
@@ -26,5 +26,5 @@ Assinantes do suporte tem atendimento prioritário.
 Se for necessário formatar o computador que é a
 **estação**, siga as instruções nos tópicos a seguir.
 
-⚠️ Leia atentamente as instruções antes de iniciar os procedimentos.  
+⚠️ Leia atentamente as instruções antes de iniciar os procedimentos.
 🚨 Não nos responsabilizamos pelas ações realizadas sem o perfeito entendimento das instruções e/ou por pessoas sem o devido conhecimento técnico necessário.

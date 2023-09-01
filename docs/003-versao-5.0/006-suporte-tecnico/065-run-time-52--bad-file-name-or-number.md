@@ -2,25 +2,25 @@
 sidebar_position: 65
 ---
 
-## Run time 52 - Bad file name or number
+# Run time 52 - Bad file name or number
 
-### Problema
+## Problema
 
 Ao digitar a senha no Laudo & Imagem, dá mensagem de erro `Run time
 52 - Bad file name or number`.
 
-### Descrição
+## Descrição
 
 Este problema ocorre se foi modificada a permissão do
 compartilhamento da pasta Laudoimagem no servidor.
 
-### Solução
+## Solução
 
 Para resolver o problema, é necessário dar permissão total na pasta
 Laudoimagem em `C:\Arquivos de Programas` do servidor do Laudo &
 Imagem.
 
-### Procedimentos
+## Procedimentos
 
 No servidor do Laudo & Imagem, entre na pasta `C:\Arquivos` de
 Programas

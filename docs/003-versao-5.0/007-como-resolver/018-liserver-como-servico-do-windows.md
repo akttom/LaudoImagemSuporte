@@ -2,20 +2,20 @@
 sidebar_position: 18
 ---
 
-## LIServer como serviço do Windows
-### Problema
+# LIServer como serviço do Windows
+## Problema
 
 Ao entrar no programa dá mensagem de erro "Erro 14 - LicProv - 10061 - connection is forcefully rejected".
 
-### Descrição
+## Descrição
 
 Servidor dedicado e sem fazer login no Windows não inicia o LiServer.
 
-### Solução
+## Solução
 
 Instalar o LiServer.exe como serviço do Windows, sem necessitar fazer login do usuário do Windows.
 
-### Procedimentos
+## Procedimentos
 
 Fazer download do arquivo [LISERVER_como_serviço](http://suporte.laudoimagem.com.br/download//LiServer_como_servico.zip)
 

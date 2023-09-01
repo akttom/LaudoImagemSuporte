@@ -2,12 +2,12 @@
 sidebar_position: 31
 ---
 
-## Tela azul
-### Problema
+# Tela azul
+## Problema
 
 Imagem aparece azul.
 
-### Descrição
+## Descrição
 
 Tela azul indica falta de sinal de vídeo por um ou mais motivos listados abaixo:
 
@@ -23,13 +23,13 @@ Tela azul indica falta de sinal de vídeo por um ou mais motivos listados abaixo
 
 - equipamento de exame não está ligado
 
-### Solução
+## Solução
 
 Configurar a captura de imagem e/ou vídeo corretamente.
 
 Verificar o local das conexões e funcionamento do cabo de vídeo.
 
-### Procedimentos
+## Procedimentos
 
 Verifique:
 

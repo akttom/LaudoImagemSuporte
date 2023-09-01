@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-## Introdução
+# Introdução
 
 ![](./img/lau-logo.svg)
 
-### Conheça a mais nova versão do sistema Laudo & Imagem.
+## Conheça a mais nova versão do sistema Laudo & Imagem.
 
 Além de todos os recursos das versões anteriores, podem ser
 agregados os serviços

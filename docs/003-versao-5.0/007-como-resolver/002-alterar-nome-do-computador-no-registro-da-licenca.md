@@ -2,12 +2,12 @@
 sidebar_position: 2
 ---
 
-## Alterar nome do computador no registro da licença
-### Descrição
+# Alterar nome do computador no registro da licença
+## Descrição
 
 Caso tenha formatado uma estação de trabalho e seja necessário alterar o nome do computador no registro da licença, é necessário acessar o programa de Configurações do sistema Laudo & Imagem. O acesso ao sistema de Configurações é feito somente no servidor e por usuários que tenham o perfil de Administrador do sistema.
 
-### Instruções
+## Instruções
 
 Acesse o programa de Configurações no Servidor do sistema Laudo & Imagem
 
@@ -17,7 +17,7 @@ Caso não tenha encontre o ícone no caminho indicado acima, entre em C:\Arquivo
 
 Para acessar o sistema de Configurações, é necessário que o usuário do Laudo & Imagem tenha perfil de Administrador do sistema
 
-### Remover a licença do computador anterior
+## Remover a licença do computador anterior
 
 - Clique na lista da esquerda na opção Licenças
 - Clique na lista no nome do computador
@@ -33,7 +33,7 @@ Para acessar o sistema de Configurações, é necessário que o usuário do Laud
 - Preencha com o nome do computador
 - Clique em Salvar
 
-### Incluir a licença no novo computador**
+## Incluir a licença no novo computador**
 
 - Clique na lista da esquerda na opção Licenças
 - Clique na lista no nome do novo computador

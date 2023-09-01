@@ -2,19 +2,19 @@
 sidebar_position: 63
 ---
 
-## Run time 482 - Printer error
+# Run time 482 - Printer error
 
-### Problema
+## Problema
 
 Dá o erro ao visualizar a impressão em tela ou enviar para
 impressão.
 
-### Descrição
+## Descrição
 
 Tem impressora instalada no computador ou na rede e dá o erro ao
 mandar imprimir.
 
-### Solução
+## Solução
 
 1. Verificar se a instalação dos drivers da impressora estão
 instalados / funcionando corretamente.
@@ -22,7 +22,7 @@ instalados / funcionando corretamente.
 2. Verificar se o usuário do Laudo & Imagem está com a impressora
 correta configurada.
 
-### Procedimentos
+## Procedimentos
 
 Verificar se a instalação dos drivers da impressora estão instalados
 e funcionando corretamente

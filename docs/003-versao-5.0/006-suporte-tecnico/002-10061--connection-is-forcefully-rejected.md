@@ -2,23 +2,23 @@
 sidebar_position: 2
 ---
 
-## 10061 - connection is forcefully rejected
+# 10061 - connection is forcefully rejected
 
-### Problema
+## Problema
 
 Ao entrar no programa dá mensagem de erro `10061 - connection
 is forcefully rejected`
 
-### Descrição
+## Descrição
 
 Este problema ocorre quando o componente `liserver` que inicia a
 conexão com o banco de dados foi automaticamente fechado.
 
-### Solução
+## Solução
 
 Retornar a execução do arquivo.
 
-### Procedimentos
+## Procedimentos
 
 - Para confirmar o problema, clique em `CTRL` + `ALT` + `DEL` e abra a opção
   `Gerenciador de Tarefas`.
