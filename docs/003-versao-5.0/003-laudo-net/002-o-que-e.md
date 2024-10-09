@@ -24,7 +24,7 @@ LaudoNet é uma solução simples e automatizada para a publicação dos laudos 
 ## E-mail automatizado
 
 -   Envio de e-mail programado avisando a disponibilização do laudo
--   Texto do e-mail customizado para médicos requisitantes, pacientes e
+-   Texto do e-mail customizado para médicos requisitantes, pacientes e/ou
     procedências
 -   Lista de laudos disponíveis para cada tipo de cliente
 
