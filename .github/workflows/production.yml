@@ -1,42 +1,42 @@
-name: Deploy LaudoImagemSuporte
+name: Deploy Docusaurus site
 
 on:
   push:
     branches:
-      - main
+      - main  # Replace with your default branch if different
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Cache Node.js modules
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'  # Ensure this matches the version specified in your package.json
+
+      - name: Cache node_modules
         uses: actions/cache@v3
         with:
           path: |
+            ~/.npm
+            ~/.cache/yarn
             node_modules
-            .cache/yarn
-          key: ${{ runner.os }}-node-${{ hashFiles('yarn.lock') }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
-            ${{ runner.os }}-node-
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
+            ${{ runner.os }}-yarn-
 
       - name: Install dependencies
-        run: yarn install
+        run: yarn install --frozen-lockfile
 
-      - name: Build Docusaurus site
+      - name: Build the website
         run: yarn build
 
       - name: Deploy to GitHub Pages
-        run: |
-          echo suporte1.laudoimagem.com.br > ./build/CNAME
-          yarn deploy
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          cname: suporte1.laudoimagem.com.br  # Your custom domain
