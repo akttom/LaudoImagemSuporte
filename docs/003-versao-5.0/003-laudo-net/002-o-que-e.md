@@ -31,6 +31,6 @@ LaudoNet é uma solução simples e automatizada para a publicação dos laudos 
 ## Área administrativa
 
 -   Relatório de visitas -- quem visualizou e quem baixou o laudo
--   Relatório de laudos publicados -- data/hora, médico requisitante,
+-   Relatório de laudos publicados - data/hora, médico requisitante,
     paciente
 -   Relatório de e-mails enviados
