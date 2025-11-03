@@ -1,0 +1,115 @@
+# Usuários
+
+**Versão:** 1.0  
+**Última atualização:** 03/11/2025  
+**Módulo:** Configurações > Usuários  
+**Descrição:**  
+Esta funcionalidade permite cadastrar, editar, remover e configurar usuários do sistema **Laudo & Imagem**.  
+Cada usuário é, antes de tudo, uma **pessoa** no sistema — podendo também ser paciente, requisitante ou responsável — mas com atributos adicionais que o habilitam a **acessar o sistema**.
+
+---
+
+### Fluxo
+
+1. **Acesso à lista de usuários**
+   - Localizada na coluna central da tela de Configurações.
+   - Ao selecionar um usuário, os dados aparecem na última coluna à direita.
+
+2. **Botões principais**
+   - **Novo:** cria um novo usuário a partir de uma pessoa existente ou cadastra uma nova pessoa.  
+   - **Editar:** permite alterar dados do usuário.  
+   - **Remover:** exclui o usuário (apenas se o perfil do operador possuir permissão).
+
+3. **Busca de pessoa**
+   - A busca pode ser feita por: **nome**, **CPF**, **RG**, **e-mail** ou **data de nascimento**.  
+   - Caso a pessoa não exista, é possível **criar um novo cadastro**.
+
+4. **Campos do cadastro**
+   - **Obrigatórios:** Nome, Iniciais, CPF, Sexo, E-mail, Senha.  
+   - **Gerados automaticamente:** e-mail fictício (caso não informado) e senha com requisitos mínimos:
+     - 1 letra maiúscula  
+     - 1 letra minúscula  
+     - 1 caractere especial  
+     - 1 número  
+     - Mínimo de 8 caracteres  
+   - **Não obrigatórios:** RG, Data de nascimento, Telefone, Endereço, CEP, Cidade, Bairro, UF (em verificação).  
+
+5. **Iniciais**
+   - Campo obrigatório e **único**.  
+   - Nenhum usuário pode ter iniciais repetidas.
+
+6. **Conversão de pessoa em usuário**
+   - Toda pessoa pode se tornar um usuário ao receber os campos adicionais (iniciais, senha etc.).
+   - Se a pessoa já existir, o sistema alerta:  
+     “Esta pessoa está cadastrada, mas não como usuário. Clique em **Sim** para adicioná-la como usuário.”
+
+7. **Perfis e Módulos**
+   - Após o cadastro, é **obrigatório** definir:
+     - Um **perfil de acesso** (Administrador, Médico, Recepção, Configurável etc.);
+     - Um **módulo** (Laudo & Imagem Assistente ou Captura).
+   - **Perfis e módulos são excludentes** — cada usuário tem apenas um ativo por vez.
+   - Ao alterar o perfil ou módulo, o sistema:
+     - Exibe um aviso de reinicialização.
+     - Desloga o usuário após 20 segundos para aplicar a mudança.
+
+8. **Comportamento da interface**
+   - Ao abrir janelas de edição ou perfil, as demais áreas da tela são desabilitadas.
+   - Cada item da lista pode ter ícones de ação, como:
+     - 🔹 Perfil do usuário  
+     - 🔹 Módulo de uso  
+
+9. **Identificação visual**
+   - Cada usuário possui um **círculo de cor** com suas iniciais.
+   - A cor pode ser alterada e reflete na interface após atualização.
+
+---
+
+### Onde isso se aplica
+- Administração de clínicas e laboratórios que utilizam o **Laudo & Imagem**.  
+- Configuração inicial de usuários e perfis de acesso.  
+- Controle de permissões e acesso aos módulos do sistema.
+
+---
+
+### Exemplos de Uso
+
+- **Cadastrar um novo funcionário:**  
+  1. Acesse *Configurações > Usuários*.  
+  2. Clique em **Novo**.  
+  3. Busque a pessoa pelo CPF.  
+  4. Se não existir, clique em **Criar nova pessoa**.  
+  5. Preencha os campos obrigatórios.  
+  6. Defina **perfil** e **módulo**.  
+  7. Clique em **Incluir** e **Salvar**.
+
+- **Alterar perfil de um usuário:**  
+  1. Selecione o usuário na lista.  
+  2. Clique no ícone de perfil.  
+  3. Escolha o novo perfil (ex.: Recepção).  
+  4. Confirme a alteração.  
+  5. O sistema avisará o usuário logado sobre a reinicialização.
+
+---
+
+### Observações
+
+- Todo **usuário é uma pessoa**, mas **nem toda pessoa é um usuário**.  
+- Pacientes, requisitantes e responsáveis também são pessoas, mas **não possuem acesso ao sistema**.  
+- Um mesmo indivíduo pode ser paciente e usuário, dependendo do contexto.  
+- A busca inteligente (ícone de “timer”) dispensa o uso da tecla *Enter*; a busca ocorre automaticamente após pausa na digitação.
+
+---
+
+### Perguntas Frequentes
+
+**1. Paciente é considerado usuário?**  
+Não. Paciente é uma pessoa sem perfil de acesso ao sistema.
+
+**2. Um funcionário que também faz exames pode ser paciente?**  
+Sim. Ele aparece como pessoa cadastrada e pode ter simultaneamente o papel de paciente e de usuário.
+
+**3. Iniciais podem se repetir?**  
+Não. Cada usuário tem iniciais únicas.
+
+**4. É possível acessar o sistema sem definir módulo e perfil?**  
+Não. Ambos são obrigatórios para acesso ao **Laudo & Imagem**.
