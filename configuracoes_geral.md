@@ -123,7 +123,6 @@ Usuário acessa apenas no horário configurado e, se exigido, a partir do IP fix
 **Como capturar imagem?**   
 O sistema permite capturar imagens de exame e de documentos (protocolos, requisições). A captura de imagens do exame é realizada em uma das etapas na opção Laudo. A captura (fotografia) de documentos (protocolo, requisições, material, etc) é realizada na opção Protocolo.
 
- Quando o usuário pergunta sobre captura de imagem geralmente se refere às imagens do exame. O protocolo permite fotografar material recebido ou pedido do exame. Mas é bom esclarecer que não são as imagens do exame e sim imagens do material que está sendo recebido no laboratório (Anatomia Patológica: tubos etiquetados, peças, etc...) ou imagens do pedido de exame (Anatomia Patológica e/ou Endoscopia).
-A captura de imagens para o exame é abordada em Etapas/Captura de imagem e é feita a partir do material referente ao tipo de exame selecionado (Anatomia Patológica: lâminas, Endoscopia: imagens do endoscópio).
+ 
 
 ---
