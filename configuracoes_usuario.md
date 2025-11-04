@@ -47,7 +47,7 @@ Cada usuário é, antes de tudo, uma **pessoa** no sistema — podendo também s
    - Após o cadastro, é **obrigatório** definir:
      - Um **perfil de acesso** (Administrador, Médico, Recepção, etc.);
      - Um **módulo** (Laudo & Imagem Assistente ou Captura - geralmente usado pelos médicos).
-   - **Perfis e módulos são excludentes** — cada usuário tem apenas um ativo por vez.
+   - **Perfis e módulos são excludentes** — cada usuário tem apenas uma permissão por vez.
    - Ao alterar o perfil ou módulo, o sistema:
      - Exibe um aviso de reinicialização.
      - Desloga o usuário após 20 segundos para aplicar a mudança.
