@@ -7,7 +7,7 @@
 Documentação técnica consolidada do módulo **Configurações** do sistema **Laudo & Imagem**, abrangendo:  
 - Estrutura de perfis e permissões  
 - Criação e gerenciamento de perfis  
-- Lista completa de Assuntos & Recursos  
+- Lista completa de Grupos de permissões & Recursos  
 - Regras de negócio operacionais incorporadas
 
 ---
@@ -48,7 +48,7 @@ Exemplo: criar o perfil “Médico” com base em “Administrador” e remover 
 
 ### Estrutura da Tela
 - **Coluna esquerda:** lista de perfis  
-- **Área central:** assuntos e recursos do perfil  
+- **Área central:** grupo de permissões e recursos do perfil  
 - **Abas:**  
   1. Perfis  
   2. Recursos do Perfil  
@@ -66,18 +66,19 @@ Exemplo: criar o perfil “Médico” com base em “Administrador” e remover 
 
 ---
 
-## 4️⃣ Assuntos & Recursos
+## 4️⃣ Grupo de permissões & Recursos
 
 ### Descrição
-Cada assunto representa uma área funcional.  
-Abaixo, os assuntos (coluna 1) e os recursos correspondentes (coluna 2).
+As permissões se dividem em grupos.
+Cada grupo representa uma área funcional e pode ter um ou mais recursos nos quais são configuradas as permissões (permitido, sem acesso e somente leitura)
+Abaixo, os grupos (coluna 1) e seus recursos correspondentes (coluna 2).
 
-| Assunto | Recursos |
+| Grupos de permissão | Recursos |
 |---|---|
 | **Agendamento**  <br/> *Permissão para usar o agendamento para marcação de exames.* | **Cadastrar** — *Permite selecionar o dia e horário e agenda dos médicos para cadastrar um agendamento.* <br/> **Editar** — *Permite editar um agendamento cadastrado e alterar todos os dados.* <br/> **Remover** — *Permite remover um agendamento cadastrado que ainda não se transformou em exame.* |
 | **Comando de voz**  <br/> *Navega pelo sistema falando textos pré-definidos.* | **Utilizar comando de voz** — *Permissões do usuário para navegar pelo sistema utilizando comandos de voz.* <br/> _Status: funcionalidade em desenvolvimento._ |
 | **Configurações - Lista de configurações**  <br/> *Acesso a cada um dos itens das configurações do sistema. Requer que em "Menu lateral" o item "Configurações" esteja marcado.* | **Agendamento** — *Permite alterar horários e tipos de exame.* <br/> **Arquivos** — *Permite cadastrar logotipos e anexar PDFs.* <br/> **Confirmações** — *Visualiza itens de verificação de qualidade.* <br/> **Empresa** — *Acesso ao cadastro da empresa.* <br/> **Especialistas** — *Cadastro de fornecedores e especialidades.* <br/> **Feedback** — *Exibe feedbacks de clientes via WhatsApp.* <br/> **Permissões** — *Exibe o item “Permissões” na lista.* <br/> **Ponto de Controle** — *Acesso às configurações do ponto de controle.* <br/> **Requisitantes** — *Exibe item na lista.* <br/> **Responsáveis** — *Exibe item na lista.* <br/> **Tabelas de preço** — *Exibe item na lista.* <br/> **Tipo de exame** — *Exibe item na lista.* <br/> **Usuários** — *Exibe item na lista.* <br/> **WhatsApp** — *Configura integração WhatsApp com o Laudo & Imagem.* |
-| **Configurações - Permissões (tela)**  <br/> *Acesso e visualização aos Assuntos e Recursos de cada Perfil.* | **Recursos do Perfil - Perfil Adicionar** — *Permitir adicionar Perfil.* <br/> **Recursos do Perfil - Perfil Editar** — *Permite editar o nome e descrição de um Perfil.* <br/> **Recursos do Perfil - Perfil Remover** — *Permite remover o Perfil desde que nenhum usuário o utilize.* <br/> **Recursos do Perfil - Recurso: trocar permissão** — *Permite trocar a permissão de um recurso.* <br/> **Tipo de exame e etapas - Etapa trocar permissão** — *Permite trocar a permissão de cada Etapa.* <br/> **Tipo de exame e etapas - Tipo de exame: marcar e desmarcar** — *Permite incluir tipos de exame no Perfil.* |
+| **Configurações - Permissões (tela)**  <br/> *Acesso e visualização aos Grupos de Permissões e Recursos de cada Perfil.* | **Recursos do Perfil - Perfil Adicionar** — *Permitir adicionar Perfil.* <br/> **Recursos do Perfil - Perfil Editar** — *Permite editar o nome e descrição de um Perfil.* <br/> **Recursos do Perfil - Perfil Remover** — *Permite remover o Perfil desde que nenhum usuário o utilize.* <br/> **Recursos do Perfil - Recurso: trocar permissão** — *Permite trocar a permissão de um recurso.* <br/> **Tipo de exame e etapas - Etapa trocar permissão** — *Permite trocar a permissão de cada Etapa.* <br/> **Tipo de exame e etapas - Tipo de exame: marcar e desmarcar** — *Permite incluir tipos de exame no Perfil.* |
 | **Exame**  <br/> *Acesso à visualização e cadastro do Exame.* | **Cadastrar** — *Permite cadastrar Exame.* <br/> **Editar** — *Permite editar dados do Exame.* <br/> **Remover** — *Permite remover Exame (soft delete).* <br/> **Trocar paciente** — *Permissão sensível, restrita a perfis de liderança.* |
 | **Laudo Critérios**  <br/> *Permite acessar critérios de exibição e executar ações em lote.* | **Assinar (ações em lote)** — *Permite assinar vários exames com um único clique (assinatura delegada).* <br/> **Critérios** — *Permite acessar e atualizar a lista de exames.* <br/> **Imprimir (ações em lote)** — *Permite impressão múltipla de laudos.* <br/> **Laudo por e-mail (ações em lote)** — *Permite envio em lote por e-mail.* <br/> **Laudos por WhatsApp** — *Permite envio em lote por WhatsApp.* <br/> **Link do laudo por e-mail (ações em lote)** — *Permite enviar link do laudo por e-mail (abre no LaudoNet).* <br/> **Link do laudo por WhatsApp (ações em lote)** — *Permite enviar link do laudo por WhatsApp.* |
 | **Laudo etapas**  <br/> *Algumas etapas requerem permissão especial (ex.: assinatura).* | **Assinar pelo responsável** — *Permite assinar laudos em nome de um ou mais responsáveis (assinatura delegada).* |
@@ -118,5 +119,9 @@ O log mostra o usuário executor, mesmo que a assinatura seja do responsável.
 
 **Como funcionam as restrições de segurança?**  
 Usuário acessa apenas no horário configurado e, se exigido, a partir do IP fixo da empresa. Perfis médicos podem ter acesso remoto.
+
+**Como capturar imagem?**
+Quando o usuário pergunta sobre captura de imagem geralmente se refere às imagens do exame. O protocolo permite fotografar material recebido ou pedido do exame. Mas é bom esclarecer que não são as imagens do exame e sim imagens do material que está sendo recebido no laboratório (Anatomia Patológica: tubos etiquetados, peças, etc...) ou imagens do pedido de exame (Anatomia Patológica e/ou Endoscopia).
+A captura de imagens para o exame é abordada em Etapas/Captura de imagem e é feita a partir do material referente ao tipo de exame selecionado (Anatomia Patológica: lâminas, Endoscopia: imagens do endoscópio).
 
 ---
