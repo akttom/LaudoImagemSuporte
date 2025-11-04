@@ -16,13 +16,13 @@ Cada usuário é, antes de tudo, uma **pessoa** no sistema — podendo também s
    - Ao selecionar um usuário, os dados aparecem na última coluna à direita.
 
 2. **Botões principais**
-   - **Novo:** cria um novo usuário a partir de uma pessoa existente ou cadastra uma nova pessoa.  
-   - **Editar:** permite alterar dados do usuário.  
-   - **Remover:** exclui o usuário (apenas se o perfil do operador possuir permissão).
+   - **Novo:** cria um novo usuário a partir do cadastro de uma pessoa existente ou cadastra uma nova pessoa.  
+   - **Editar:** permite alterar dados do cadastro usuário.  
+   - **Remover:** exclui o cadastro do usuário (apenas se o perfil do operador possuir permissão).
 
 3. **Busca de pessoa**
    - A busca pode ser feita por: **nome**, **CPF**, **RG**, **e-mail** ou **data de nascimento**.  
-   - Caso a pessoa não exista, é possível **criar um novo cadastro**.
+   - Caso o cadastro da pessoa não exista, é possível **criar um novo cadastro**.
 
 4. **Campos do cadastro**
    - **Obrigatórios:** Nome, Iniciais, CPF, Sexo, E-mail, Senha.  
@@ -38,19 +38,19 @@ Cada usuário é, antes de tudo, uma **pessoa** no sistema — podendo também s
    - Campo obrigatório e **único**.  
    - Nenhum usuário pode ter iniciais repetidas.
 
-6. **Conversão de pessoa em usuário**
-   - Toda pessoa pode se tornar um usuário ao receber os campos adicionais (iniciais, senha etc.).
-   - Se a pessoa já existir, o sistema alerta:  
+6. **Conversão de cadastro de pessoa em usuário**
+   - Toda pessoa cadastrada pode se tornar um usuário ao receber os campos adicionais obrigatórios (iniciais, senha etc.).
+   - Se o cadastro da pessoa já existir, o sistema emitirá um alerta:  
      “Esta pessoa está cadastrada, mas não como usuário. Clique em **Sim** para adicioná-la como usuário.”
 
 7. **Perfis e Módulos**
    - Após o cadastro, é **obrigatório** definir:
      - Um **perfil de acesso** (Administrador, Médico, Recepção, etc.);
-     - Um **módulo** (Laudo & Imagem Assistente ou Captura - geralmente usado pelos médicos).
-   - **Perfis e módulos são excludentes** — cada usuário tem apenas uma permissão por vez.
+     - Um **módulo de licença** (Laudo & Imagem Assistente ou Captura - geralmente usado pelos médicos).
+   - **Perfis e módulos são excludentes** — cada usuário tem apenas uma permissão por vez para acessar o sistema.
    - Ao alterar o perfil ou módulo, o sistema:
-     - Exibe um aviso de reinicialização.
-     - Desloga o usuário após 20 segundos para aplicar a mudança.
+     - Exibe um aviso de ser necessário reinicializar.
+     - Sai do sistema (logout) e faz novo login do usuário após 20 segundos para aplicar a mudança configurada no perfil.
 
 8. **Comportamento da interface**
    - Ao abrir janelas de edição ou perfil, as demais áreas da tela são desabilitadas.
@@ -60,14 +60,14 @@ Cada usuário é, antes de tudo, uma **pessoa** no sistema — podendo também s
 
 9. **Identificação visual**
    - Cada usuário possui um **círculo de cor** com suas iniciais.
-   - A cor pode ser alterada e reflete na interface após atualização.
+   - A cor pode ser alterada e aparece na interface após atualização.
 
 ---
 
 ### Onde isso se aplica
-- Administração de clínicas e laboratórios que utilizam o **Laudo & Imagem**.  
+- Administração de hospitais, clínicas e laboratórios que utilizam o **Laudo & Imagem**.  
 - Configuração inicial de usuários e perfis de acesso.  
-- Controle de permissões e acesso aos módulos do sistema.
+- Controle de permissões e acesso aos módulos (licenças disponíveis) do sistema.
 
 ---
 
@@ -79,7 +79,7 @@ Cada usuário é, antes de tudo, uma **pessoa** no sistema — podendo também s
   3. Busque a pessoa pelo CPF.  
   4. Se não existir, clique em **Criar nova pessoa**.  
   5. Preencha os campos obrigatórios.  
-  6. Defina **perfil** e **módulo**.  
+  6. Defina **perfil** e **módulo** (tipo de licença: Assistente ou CAptura).  
   7. Clique em **Incluir** e **Salvar**.
 
 - **Alterar perfil de um usuário:**  
@@ -87,7 +87,7 @@ Cada usuário é, antes de tudo, uma **pessoa** no sistema — podendo também s
   2. Clique no ícone de perfil.  
   3. Escolha o novo perfil (ex.: Recepção).  
   4. Confirme a alteração.  
-  5. O sistema avisará o usuário logado sobre a reinicialização.
+  5. O sistema avisará o usuário logado sobre a reinicialização para aplicação das alterações configuradas.
 
 ---
 
@@ -95,7 +95,7 @@ Cada usuário é, antes de tudo, uma **pessoa** no sistema — podendo também s
 
 - Todo **usuário é uma pessoa**, mas **nem toda pessoa é um usuário**.  
 - Pacientes, requisitantes e responsáveis também são pessoas, mas **não possuem acesso ao sistema**.  
-- Um mesmo indivíduo pode ser paciente e usuário, dependendo do contexto.  
+- Um mesmo indivíduo pode ser paciente, requisitante, responsável e usuário, dependendo do contexto.  
 - A busca inteligente (ícone de “timer”) dispensa o uso da tecla *Enter*; a busca ocorre automaticamente após pausa na digitação.
 
 ---
@@ -111,16 +111,16 @@ Quando o **perfil** ou o **módulo** de um usuário é alterado pelo administrad
   > Clique para avisá-lo que será preciso reiniciar o app.
 
 - **Notificação (usuário):**  
-  > O perfil do usuário foi alterado.  Termine o que está fazendo e reinicie o app. Caso contrário, o app será reiniciado em 20 segundos.
+  > O perfil do usuário foi alterado.  Termine o que está fazendo e reinicie o app. Caso contrário, o app será reiniciado automaticamente em 20 segundos.
 
-#### Troca de Módulo
+#### Troca de Módulo / Licença
 - **Popup (administrador):**  
   Mensagem exibida com botão **OK**:  
-  > O módulo do usuário foi alterado.  
+  > O módulo / tipo de licença do usuário foi alterado.  
   > Clique para avisá-lo que será preciso reiniciar o app.
 
 - **Notificação (usuário):**  
-  > O módulo do usuário foi alterado.  Termine o que está fazendo e reinicie o app. Caso contrário, o app será reiniciado em 20 segundos.
+  > O módulo / tipo de licença do usuário foi alterado. Termine o que está fazendo e reinicie o app. Caso contrário, o app será reiniciado automaticamente em 20 segundos.
 
 **Comportamento esperado**
 - O popup exibido ao administrador contém um **botão “OK”** para confirmar o aviso.  
@@ -142,5 +142,5 @@ Não. Cada usuário tem iniciais únicas.
 **4. É possível acessar o sistema sem definir módulo e perfil?**  
 Não. Ambos são obrigatórios para acesso ao **Laudo & Imagem**.
 
-**Como identificar qual o módulo que está configurado para mim?**
+**5. Como identificar qual o módulo / licença que está configurado para mim?**
 O módulo de Captura tem uma etapa chamada **Captura de imagens**. O módulo Assistente não tem esta etapa.
