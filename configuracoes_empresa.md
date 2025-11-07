@@ -4,7 +4,7 @@
 **Última atualização:** 2025-11-05  
 **Módulo:** Configurações > Empresa  
 **Descrição:**  
-O cadastro da empresa define dados administrativos e configurações técnicas da única empresa cliente associada à licença do sistema. Não há possibilidade de adicionar múltiplas empresas.  
+O cadastro da empresa define dados administrativos e configurações técnicas da empresa cliente associada à licença do sistema Laudo & Imagem. Não há possibilidade de adicionar múltiplas empresas.  
 
 ---
 
@@ -34,9 +34,9 @@ O cadastro da empresa define dados administrativos e configurações técnicas d
 ### Exemplos de Uso
 
 - Atualizar o e-mail da empresa
-- Ativar permissão temporária para suporte técnico acessar o sistema
+- Ativar permissão temporária para suporte técnico acessar o sistema de forma remota
 - Definir as pastas de imagens e PDFs usadas na nuvem
-- Configurar impressoras Zebra ou padrão A4 para laudos
+- Configurar impressoras para etiquetas ou padrão A4 para laudos
 - Gerenciar numeração automática de exames (ex: `25-000123-AP`)
 
 ---
@@ -50,26 +50,27 @@ O cadastro da empresa define dados administrativos e configurações técnicas d
 #### 2. **Telefone e WhatsApp**
 - Número principal da empresa
 - Indicação de número com WhatsApp
-- Horário de atendimento e central telefônica exibidos em mensagens automáticas
+- Horário de atendimento e mensagens pré-definidas para atendimento automático (WhatsApp)
 
 #### 3. **Configurações Gerais**
-- **Permitir acesso de suporte técnico**
+- **Permitir acesso remoto de suporte técnico**
 - **Restringir acesso ao sistema por IP**
-- **Data de corte da migração**
+- **Data de corte da migração** (versão antiga para a nova)
 - **Exibir Manual SBP**
-- **Piscar ponto de controle**
+- **Ponto de controle**
 - **Pastas de imagens, vídeos e PDFs na nuvem**
 
 #### 4. **Numeração Automática**
-- Formatos personalizáveis com ano, número, sigla
+- Formatos personalizáveis com ano, número e sigla do exame
 - Digitação configurável
 - Deve ser definida uma única vez
 
 #### 5. **Salas**
-- Cadastro das salas físicas
+- Cadastro das salas físicas de exames
 - Auxilia no agendamento e organização por ambiente físico
 
 #### 6. **Impressoras**
+- Obrigatóriamente locais
 - Detectadas via servidor local
 - Podem ser ocultadas, renomeadas e classificadas por tipo (normal, EPL, ESC/POS)
 
@@ -85,7 +86,7 @@ O cadastro da empresa define dados administrativos e configurações técnicas d
 ### Observações
 
 - Apenas uma empresa é permitida por licença
-- Os dados já vêm preenchidos na implantação inicial
+- Os dados da empresa já vêm preenchidos na implantação inicial
 - Alterações devem ser feitas com cautela
 - Impressoras virtuais devem ser desconsideradas
 
@@ -94,7 +95,7 @@ O cadastro da empresa define dados administrativos e configurações técnicas d
 ### Perguntas Frequentes
 
 **Posso cadastrar mais de uma empresa?**  
-Não. O sistema permite apenas uma empresa por licença.
+Não. O sistema permite apenas uma empresa com uma ou várias licenças.
 
 **O suporte pode acessar meu sistema a qualquer momento?**  
 Não. O acesso é concedido temporariamente, por 1 hora, com consentimento explícito do cliente.
