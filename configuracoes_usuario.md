@@ -46,7 +46,7 @@ Cada usuário é, antes de tudo, uma **pessoa** no sistema — podendo também s
 7. **Perfis e Módulos**
    - Após o cadastro, é **obrigatório** definir:
      - Um **perfil de acesso** (Administrador, Médico, Recepção, etc.);
-     - Um **módulo de licença** (Laudo & Imagem Assistente ou Captura - geralmente usado pelos médicos).
+     - Um **módulo de licença** (Assistente:todas as funcionalidades do sistema  ou Captura: todas as funcionalidades do sistema e captura de imagens,geralmente usado pelos médicos).
    - **Perfis e módulos são excludentes** — cada usuário tem apenas uma permissão por vez para acessar o sistema.
    - Ao alterar o perfil ou módulo, o sistema:
      - Exibe um aviso de ser necessário reinicializar.
@@ -79,7 +79,7 @@ Cada usuário é, antes de tudo, uma **pessoa** no sistema — podendo também s
   3. Busque a pessoa pelo CPF.  
   4. Se não existir, clique em **Criar nova pessoa**.  
   5. Preencha os campos obrigatórios.  
-  6. Defina **perfil** e **módulo** (tipo de licença: Assistente ou CAptura).  
+  6. Defina **perfil** e **módulo** (tipo de licença: Assistente ou Captura).  
   7. Clique em **Incluir** e **Salvar**.
 
 - **Alterar perfil de um usuário:**  
@@ -94,7 +94,7 @@ Cada usuário é, antes de tudo, uma **pessoa** no sistema — podendo também s
 ### Observações
 
 - Todo **usuário é uma pessoa**, mas **nem toda pessoa é um usuário**.  
-- Pacientes, requisitantes e responsáveis também são pessoas, mas **não possuem acesso ao sistema**.  
+- Pacientes e requisitantes também são pessoas, mas **não possuem acesso ao sistema**.  
 - Um mesmo indivíduo pode ser paciente, requisitante, responsável e usuário, dependendo do contexto.  
 - A busca inteligente (ícone de “timer”) dispensa o uso da tecla *Enter*; a busca ocorre automaticamente após pausa na digitação.
 
@@ -131,7 +131,7 @@ Quando o **perfil** ou o **módulo** de um usuário é alterado pelo administrad
 ### Perguntas Frequentes
 
 **1. Paciente é considerado usuário?**  
-Não. Paciente é uma pessoa sem perfil de acesso ao sistema.
+Não. Paciente é uma pessoa com cadastro, mas sem perfil de acesso ao sistema.
 
 **2. Um funcionário que também faz exames pode ser paciente?**  
 Sim. Ele aparece como pessoa cadastrada e pode ter simultaneamente o papel de paciente e de usuário.
