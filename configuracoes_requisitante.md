@@ -4,14 +4,14 @@
 **Última atualização:** 2025-11-05  
 **Módulo:** Configurações > Requisitantes  
 **Descrição:**  
-Os requisitantes são médicos que solicitam exames para os pacientes junto à clínica ou laboratório. São pessoas físicas que precisam ser cadastradas no sistema com informações específicas, como CRM e tipo de entrega. O módulo permite buscar, cadastrar, editar e remover requisitantes, desde que o usuário tenha permissões adequadas.
+Os requisitantes são médicos que solicitam exames para os pacientes junto ao hospital, clínica ou laboratório. São pessoas físicas que precisam ser cadastradas no sistema com informações específicas, como CRM e tipo de entrega. Essa opção permite buscar, cadastrar, editar e remover requisitantes, desde que o usuário tenha permissões adequadas.
 
 ---
 
 ### Fluxo
 
 1. **Acesso ao módulo:**  
-   Ao entrar em "Requisitantes", o sistema abre diretamente a tela de **busca**, pois o uso mais comum é procurar por um requisitante específico.
+   Ao entrar em "Requisitantes", o sistema abre diretamente a tela de **busca**, pois o correto é procurar se o requisitante já está cadastrado e evitar duplicidade.
 
 2. **Campos de busca disponíveis:**  
    - Nome  
@@ -24,11 +24,11 @@ Os requisitantes são médicos que solicitam exames para os pacientes junto à c
    - Telefone  
 
 3. **Buscar todos:**  
-   Para listar todos os requisitantes, selecione o campo "Nome", digite o caractere `%` (porcentagem) e pressione Enter.
+   Para listar todos os requisitantes cadastrados no sistema, selecione o campo "Nome", digite o caractere `%` (porcentagem) e pressione Enter.
 
 4. **Visualização da lista:**  
-   - Os requisitantes encontrados aparecem em uma lista.  
-   - Ao clicar em um deles, o cadastro aparece ao lado direito da tela.  
+   - Os requisitantes encadastrados aparecem em uma lista.  
+   - Ao clicar em um nome, o cadastro aparece ao lado direito da tela.  
    - Dependendo das permissões, é possível **editar**, **remover** ou **criar novo**.
 
 5. **Cadastro de novo requisitante:**
@@ -66,30 +66,29 @@ Ao **editar** um requisitante, botões laterais surgem em alguns campos, permiti
 | CEP             | Cadastro de múltiplos endereços; define endereço principal     |
 | Senha           | Visualização, edição e envio por e-mail ou WhatsApp           |
 
-> **Importante:** Esses botões **não aparecem no cadastro novo**, apenas ao editar uma pessoa já existente.
+> **Importante:** Esses botões **não aparecem no cadastro novo**, mas apenas ao editar um cadastro já existente.
 
 ---
 
 ### Onde isso se aplica
 
 - Módulo **Configurações > Requisitantes**
-- Cadastro e edição de pessoas físicas vinculadas como médicos solicitantes
-- Integração com o cadastro de exames, onde o requisitante será selecionado via campo de autocompletar
+- Cadastro e edição de pessoas físicas vinculadas como médicos requisitantes
+- Integração com o cadastro de exames, onde o requisitante será selecionado (via campo de autocompletar)
 
 ---
 
 ### Exemplos de Uso
 
 - Um novo médico começa a solicitar exames para a clínica. Ele é cadastrado como uma **pessoa** e, em seguida, transformado em **requisitante** preenchendo os campos adicionais obrigatórios.
-- Ao editar um requisitante, o usuário cadastra mais um telefone e define um novo e-mail principal.
+- Ao editar um requisitante, o usuário pode cadastrar mais telefones e e-mail e definir um deles como principal.
 
 ---
 
 ### Observações
 
 - Todos os requisitantes são pessoas físicas, nunca jurídicas.
-- Um laboratório que solicita exames será representado no sistema por uma **pessoa física responsável**, que será cadastrada como requisitante.
-- O nome do último requisitante cadastrado aparece no topo da lista, fora da ordem alfabética, como forma de destaque.
+- Somente no momento em que um novo requisitante for cadastrado, seu nome aparece no topo da lista e fora da ordem alfabética, como forma de destaque.
 
 ---
 
@@ -106,10 +105,10 @@ Ao **editar** um requisitante, botões laterais surgem em alguns campos, permiti
 Não. Ambos são obrigatórios para o cadastro de requisitantes.
 
 **2. Posso cadastrar uma clínica como requisitante?**  
-Não diretamente. Uma clínica deve ser representada por uma **pessoa física responsável**, que será cadastrada como requisitante.
+Não. Uma clínica deve ser cadastrada como **Procedência**.
 
 **3. Por que alguns botões (telefone, e-mail etc.) não aparecem ao cadastrar?**  
 Esses botões só aparecem ao **editar** um cadastro. Durante o cadastro inicial, o foco é apenas no preenchimento dos campos obrigatórios.
 
 **4. Como enviar a senha do requisitante?**  
-Ao editar o cadastro, utilize o botão ao lado do campo "Senha" para enviar por e-mail ou WhatsApp, se houver informações preenchidas.
+Ao editar o cadastro, utilize o botão ao lado do campo "Senha" para enviar por e-mail ou WhatsApp, se houver informações do e-mail e/ou telefone WhatsApp preenchidas.
