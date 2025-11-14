@@ -12,12 +12,12 @@ Responsáveis são pessoas cadastradas no sistema que possuem um papel específi
 
 1. Acesse **Configurações > Responsáveis**.
 2. Clique em **Novo**:
-   - Selecione uma pessoa já cadastrada ou crie uma nova.
-   - Caso a pessoa já exista, mas não seja um responsável, o sistema perguntará se deseja transformá-la em responsável.
+   - Faça a busca da pessoa já cadastrada ou crie um novo.
+   - Caso a pessoa já exista, mas não seja um responsável, clique no botão **Incluir** e o sistema perguntará se deseja transformá-la em responsável.
 3. Preencha os campos obrigatórios específicos do tipo "responsável".
 4. Salve o cadastro.
 5. Para configurar recursos adicionais:
-   - Edite o responsável.
+   - Edite o cadastro do Responsável.
    - Utilize os botões de recursos disponíveis (descritos abaixo).
 
 ---
@@ -32,9 +32,9 @@ Responsáveis são pessoas cadastradas no sistema que possuem um papel específi
 
 ### Exemplos de Uso
 
-- Cadastrar um médico que realiza apenas endoscopia.
-- Definir que o Dr. João ganha 30% dos exames que realiza.
-- Permitir que a secretária assine exames em nome do Dr. Pedro, quando ele estiver ausente.
+- Configurar o cadastro de um médico que realiza apenas um tipo de exame.
+- Definir a participação percentual sobre o valor dos exames que realiza (opcional).
+- Permitir que a secretária assine exames em nome de um ou mais médicos, se e quando estiver ausente.
 
 ---
 
@@ -43,44 +43,38 @@ Responsáveis são pessoas cadastradas no sistema que possuem um papel específi
 Após o cadastro, cada responsável pode ter os seguintes recursos configurados:
 
 #### 1. **Tipos de Exame que Pode Realizar**
-- Define quais exames o responsável está autorizado a realizar.
-- O nome do responsável só aparece nos cadastros de exames compatíveis com suas permissões.
-- Exemplo: Um médico que realiza apenas colonoscopia não aparecerá na lista de seleção para endoscopia.
+- Definir quais tipos de exames o responsável está autorizado a realizar.
+- Inserir o nome do responsável somente nos cadastros de exames compatíveis com suas permissões.
+- Exemplo: Um médico que realiza apenas colonoscopia não aparecerá na lista de seleção para exames de endoscopia.
 
-#### 2. **Participação no Valor do Exame**
-- Permite configurar comissões ou valores fixos por exame.
+#### 2. **Participação no Valor do Exame** (opcional)
+- Permite configurar comissões ou valores fixos por exame realizado.
 - Tipos de participação:
   - **Nenhuma**: O médico recebe salário fixo (sem controle pelo sistema).
   - **Valor Fixo**: Ex: R$ 100,00 por exame.
   - **Percentual**: Ex: 30% do valor do exame.
 - Utilizado em relatórios financeiros para calcular o valor devido ao responsável.
 
-#### 3. **Permitir Usuários Assinarem por Ele**
-- Autoriza outros usuários a assinarem exames em nome do responsável.
-- Ideal para médicos ausentes no momento da finalização.
-- A assinatura no laudo aparece como sendo do responsável, mas o **log do sistema** registra o nome do usuário que realizou a ação.
-- A delegação é feita diretamente no cadastro do responsável.
+#### 3. **Permitir Usuários Assinarem pelo Médico Responsável**
+- Autorizar outros usuários a assinarem exames em nome do responsável.
+- Ideal para médicos ausentes no momento da finalização do exame.
+- A assinatura no laudo aparece como sendo do médico responsável, mas o **log do sistema** registra o nome do usuário que realizou a ação da assinatura.
+- A configuração da permissão é feita diretamente no cadastro do responsável.
 
 ---
 
 ### Observações
 
-- Uma mesma pessoa pode assumir múltiplos papéis no sistema: paciente, usuário, responsável, requisitante etc.
-- A foto do responsável pode ser tirada via webcam após o cadastro, no modo de edição.
+- Uma mesma pessoa pode assumir múltiplos papéis no cadastro do sistema: paciente, usuário, responsável, requisitante etc.
+- Uma foto do responsável pode ser tirada via webcam após o cadastro, no modo de edição.
 - A imagem serve para identificação interna no sistema; se não houver imagem, será exibida a inicial do nome.
 - O sistema pode bloquear o acesso à webcam se já estiver sendo usada (ex.: em videoconferência pelo Teams).
 
 ---
 
-### Imagens
-
-> **Não aplicável.** O sistema **Laudo & Imagem** não utiliza imagens externas nesta documentação.
-
----
-
 ### Perguntas Frequentes
 
-**1. Uma pessoa pode ser responsável e também usuário?**  
+**1. Uma pessoa pode ser responsável e também usuário do sistema?**  
 Sim! A mesma pessoa pode ter múltiplos papéis no sistema, inclusive responsável, paciente, usuário e requisitante.
 
 **2. Preciso cadastrar uma nova pessoa para ser responsável?**  
@@ -90,4 +84,4 @@ Não necessariamente. Você pode transformar uma pessoa já cadastrada em respon
 Sim. O log do sistema registra quem fez a ação, mesmo que a assinatura exibida seja do médico responsável.
 
 **4. É obrigatório definir comissão ou valor fixo?**  
-Não. Essa configuração é opcional e usada apenas se houver acordo entre o laboratório e o responsável.
+Não. Essa configuração é opcional e usada apenas se houver acordo entre a empresa e o responsável.
